@@ -1,6 +1,26 @@
 ## pagina 60
 ### alemany
 
+Beispiel
+Aufgabe:
+V-Naht, s (Steigposition)
+Nahtvorbereitung siehe Skizzen und V-Naht w, Blatt 59
+
+Ausführung:
+Wurzellage:
+Pendelraupe
+Stabelektrode siehe Ecknaht s, Blatt 58
+Spaltbreite, Steg-(Schulter-) Höhe und Stromstärke
+müssen aufeinander abgestimmt sein, siehe V-
+Naht w, Blatt 59
+Elektroden mit zähem Schmelzfluß, z. B. RR (B) 7
+ausreichend tief in den Spalt führen, um Vertie-fungen auf der Rückseite zu vermeiden
+
+Füll-(Zwischen-)Lagen:
+Pendelraupe
+siehe Ecknaht s, Blatt 58
+Elektrode über die Mitte schnell (ruckartig) pendeln, am Ende der Pendelbewegung rechts und links kurz verweilen; dadurch und zusammen mit richtig eingestellter Stromstärke können Nahtüberhöhungen und Einbrandkerben vermieden werden
+
 Decklage:
 Pendelraupe
 Stabelektrode 2,5 oder 3,25 E 51 22 RR 6 DIN 1913
@@ -14,8 +34,8 @@ V-Naht w
 richtig
 falsch
 Schweißöse
----
-### catlalà
+
+### català
 
 Exemple
 Tasca:
