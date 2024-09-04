@@ -272,12 +272,46 @@ material
 U St 37-1
 Bloc punxegut
 7
-
-
 ---
+## pagina 8
+### alemany
+Arbeitsgang:
+Quadratstahl 12 auf Weißglut erwärmen
+Stahl auf 15 mm Länge über Amboẞkante absetzen 1
+und auf 6 mm Stärke ausschmieden
+Stahl auf Weißglut erwärmen
+Stahl in den Schraubstock spannen
+8 mm ab Ansatz vorstehen lassen
+Lappen umbiegen 2
+beachten, daß der Lappen vom Ansatz weggebogen wird
+dabei Material gegen die Ecke ziehen
+fertigschmieden, richten
+anderes Ende auf Weißglut erwärmen
+Vierkantspitze ausschmieden
 
+Werkstoff
+U St 37-1
+Mauerkloben
 
+### catala
+Funcionament:
+Escalfeu l'acer quadrat 12 a foc blanc
+Col·loqueu l'acer a una longitud de 15 mm per sobre de la vora de l'enclusa 1
+i forjat a 6 mm de gruix
+Escalfeu l'acer a foc blanc
+Pinça d'acer a la morsa
+Deixeu que sobresurtin 8 mm de la base
+Doble la solapa 2
+tingueu en compte que la solapa està doblegada lluny de la base
+mentre estireu el material cap a la cantonada
+forjar, redreçar
+Escalfeu l'altre extrem a foc blanc
+Forja la punta quadrada
 
+material
+U St 37-1
+Bloc de paret
+---
 ## pagina 60
 ### alemany
 
