@@ -62,10 +62,47 @@ En el treball de forja artística no sempre cal que les traces
 creat per l'aleta desapareixerà completament
 
 
-
-
-
 amplades
+---
+## pàgina 3
+### alemany
+
+Arbeitsgang:
+Quadratische Spitze:
+Stahl auf Weißglut erwärmen
+Spitze kurz anschmieden 1
+je schwächer die Spitze wird, um so leichtere Schläge führen
+quadratisch ausschmieden, sonst Gefahr des Aufspleißens
+Spitze auf gewünschte Länge nachstrecken 2
+Runde Spitze:
+Stahl auf Weißglut erwärmen
+Spitze kurz und quadratisch anschmieden 1
+nachstrecken
+Spitze achtkantig schmieden 3
+Spitze rund schmieden
+
+Werkstoff
+U St 37-1
+Spitze
+
+### català
+Funcionament:
+Punta quadrat:
+Escalfeu l'acer a foc blanc
+Forja breument la punta 1
+com més feble sigui la punta, més fàcils seran els cops
+Forja quadrat, en cas contrari risc de trencar-se
+Torneu a estirar la punta fins a la longitud desitjada 2
+Consell rodó:
+Escalfeu l'acer a foc blanc
+Forja la punta curta i quadrada 1
+seguiment
+Forja punta octogonal 3
+Forja la punta rodona
+
+material
+U St 37-1
+Genial
 
 ---
 ## pagina 60
