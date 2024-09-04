@@ -312,6 +312,39 @@ material
 U St 37-1
 Bloc de paret
 ---
+## pàgina 8
+### alemany 
+Arbeitsgang:
+gestreckte Länge der Öse: 40 mm 3,14 = 125 mm
+Rundstahl 10 auf Weißglut erwärmen
+Stahl 125 mm über Amboẞkante abbiegen 1
+Öse überm Rundhorn einrollen 2
+anderes Ende auf Weißglut erwärmen
+Flügelhälften schräg ansetzen
+und keilförmig ausschmieden 3
+Flügelhälften über Amboẞkante einrollen 4
+
+Werkstoff
+U St 37-1
+Öse mit Steinschraube
+
+### català
+Funcionament:
+Longitud estirada de l'ulell: 40 mm 3,14 = 125 mm
+Escalfeu l'acer rodó 10 a foc blanc
+Doble l'acer 125 mm per sobre de la vora de l'enclusa 1
+Enrotlla el trau per sobre de la banya rodona 2
+Escalfeu l'altre extrem a foc blanc
+Col·loqueu les meitats de les ales en angle
+i forjar-lo en forma de falca 3
+Enrotlleu les meitats de les ales per sobre de la vora de l'enclusa 4
+
+material
+U St 37-1
+Traulet amb cargol de pedra
+
+---
+
 ## pagina 60
 ### alemany
 
