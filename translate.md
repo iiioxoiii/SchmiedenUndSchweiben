@@ -1,3 +1,73 @@
+## pagina 1
+### alemany 
+
+Arbelitsgang:
+Stahl auf Weißglut erwärmen 
+am zweckmäßigsten auf dem runden Horn mit dem Handhammer grob vorstrecken 1
+bei stärkerem Werkstoff läßt man mit dem Vorschlaghammer zuschlagen 2
+auch mit dem Ballhammer kann gestreckt werden 3
+auf der Amboẞbahn glattschmieden 4
+dazu kann zum Schluß auch der Schlichthammer verwendet werden 5
+
+Werkstoff
+U St 37-1
+Strecken
+1
+
+Hammerstiel waagerecht
+### català
+
+Rutina de treball:
+Escalfeu l'acer a foc blanc
+El millor és estirar aproximadament la banya rodona amb un martell de mà 1
+Si el material és més gruixut, podeu colpejar-lo amb un martell 2
+També podeu estirar amb el martell de bola 3
+forja suau al camí de l'enclusa 4
+El martell d'acabat també es pot utilitzar al final 5
+
+material
+U St 37-1
+Estirar
+1
+
+Mànec de martell horitzontal
+
+---
+## pagina 2
+### alemany
+Arbeitsgang:
+Stahl auf Weißglut erwärmen
+auf der flachen Amboẞbahn mit der Schmalbahn des Handhammers breitziehen 1
+
+bei stärkerem Werkstoff mit dem Vorschlaghammer zuschlagen 2, der ebenfalls mit der Schmalbahn breitzieht
+auch mit dem Ballhammer kann breitgezogen werden 3 
+auf der Amboẞbahn mit der breiten Hammerbahn glätten
+
+dazu kann zum Schluß auch der Schlichthammer verwendet werden
+bei Kunstschmiedearbeiten ist es nicht immer erforderlich, daß die Spuren, welche 
+durch die Finne entstanden sind, restlos verschwinden
+
+### català
+3
+Funcionament:
+Escalfeu l'acer a foc blanc
+Esteneu pel camí de l'enclusa pla amb el camí estret del martell de mà 1
+
+Si el material és més gruixut, colpeja-lo amb el martell 2, que també l'estén amb la tira estreta
+També podeu estirar-lo ample amb el martell de bola 3
+suau a la pista de l'enclusa amb la pista ampla del martell
+
+El martell d'acabat també es pot utilitzar al final
+En el treball de forja artística no sempre cal que les traces
+creat per l'aleta desapareixerà completament
+
+
+
+
+
+amplades
+
+---
 ## pagina 60
 ### alemany
 
