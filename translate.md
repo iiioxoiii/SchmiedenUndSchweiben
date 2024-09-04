@@ -61,7 +61,6 @@ El martell d'acabat també es pot utilitzar al final
 En el treball de forja artística no sempre cal que les traces
 creat per l'aleta desapareixerà completament
 
-
 amplades
 ---
 ## pàgina 3
@@ -226,12 +225,59 @@ Forgeu el gruix exacte amb un martell d'acabat o de fixació.
 per dl amb matriu rodona part superior i inferior 6
 martell en una planxa de claus adequada
 
-
 material
 U St 37-1
 Enganxeu la espiga
 6
 ---
+## pagina 7
+### alemany
+Arbeitsgang:
+Rundstahl 10 - 130
+Stahl auf Weißglut erwärmen
+Kegel anschmieden 1
+hierbei Stahl flach auf den Amboß auflegen und während des Schmiedens drehen
+vorderes Ende ca. 25 mm lang abkühlen
+abbiegen 2
+40 mm in den Schraubstock spannen
+dabei Werkstoff gegen die Ecke ziehen
+Stahl auf Weißglut erwärmen
+äußere Biegekante am Amboẞ absetzen 3, um eine volle Ecke zu erzielen
+Ecke im Schraubstock scharfkantig schmieden 4
+Stahl am anderen Ende auf Weißglut erwärmen
+Spitze schmieden
+
+Werkstoff
+U St 37-1
+Spitzkloben
+7
+### català
+
+Funcionament:
+Acer rodó 10 - 130
+Escalfeu l'acer a foc blanc
+Forjar el con 1
+Col·loqueu l'acer pla a l'enclusa i feu-lo girar mentre forja
+Deixeu refredar l'extrem frontal fins a uns 25 mm de llarg
+torn 2
+Pinça de 40 mm a la morsa
+estireu el material cap a la cantonada
+Escalfeu l'acer a foc blanc
+Col·loqueu la vora de flexió exterior a l'enclusa 3 per aconseguir una cantonada completa
+Forjar vores afilades a la morsa 4
+Escalfeu l'acer a l'altre extrem a foc blanc
+Punta de forja
+
+material
+U St 37-1
+Bloc punxegut
+7
+
+
+---
+
+
+
 ## pagina 60
 ### alemany
 
