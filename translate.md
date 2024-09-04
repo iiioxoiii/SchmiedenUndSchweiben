@@ -105,6 +105,44 @@ U St 37-1
 Genial
 
 ---
+## pagina 4
+### alemany
+
+Arbeitsgang:
+Stahl auf Weißglut erwärmen
+mit dem Setzhammer oder schrägem Setzhammer einsetzen 1, 2
+mit dem Handhammer auf gleiche Breite beischmieden
+unter Verwendung einer Beilage in den Schraubstock spannen und stauchen, damit die Kante an der vollen Stabstärke scharf herauskommt; dabei nicht vergessen, dem Wasserbecher neben der zu stauchenden Stelle abzukühlen 3
+auf gleiche Stärke schmieden
+
+Beim Absetzen mit betont rundem Übergang mit dem Ballhammer einballen und Lappen mit dem Handhammer ausschmieden 4
+Bei einem Lappen, dessen Ansatz nach der Verarbeitung unsichtbar ist oder keine scharfe Kante erfordert, wird mit dem Handhammer an der Amboẞkante abgesetzt 5
+
+Werkstoff
+U St 37-1
+
+Absetzen
+4
+
+### català
+Funcionament:
+Escalfeu l'acer a foc blanc
+Introduïu amb el martell de fixació o el martell de fixació inclinat 1, 2
+Forja a la mateixa amplada amb un martell de mà
+utilitzant una llana, pinça i comprimeix a la mordassa perquè la vora surti afilada a tot el gruix de la barra; No us oblideu de deixar refredar la tassa d'aigua al costat de la zona a comprimir 3
+forjar a la mateixa força
+
+Quan us atureu amb una transició rodona pronunciada, aixequeu-la amb el martell de bola i forjeu les solapes amb el martell de mà 4
+En el cas d'una solapa la base de la qual és invisible després del processament o no requereix una vora afilada, s'utilitza el martell de mà per col·locar-la a la vora de l'enclusa 5
+
+material
+U St 37-1
+
+Solucionar-se
+4
+
+
+---
 ## pagina 60
 ### alemany
 
