@@ -140,7 +140,39 @@ U St 37-1
 
 Solucionar-se
 4
+---
+## pàgina 5
+### alemany
+Arbeitsgang:
+Werkstoff: Flachstahl 25 5, Rohlänge 15
+Flachstahl auf Weißglut erwärmen
+Breitseiten beischmieden 1
+Keilform schmieden 2
+dabei Breitseiten parallel halten
+Ecken kalt breitziehen
+Keilspitze in den Schraubstock spannen
+Kanten schröpfen 3
+beachten, daß die Schröpfungen nach der Breitseite des Keiles vorstehen
+Keil auf Länge abschneiden
+obere Kanten brechen
 
+Hammerkeil
+
+### català
+Funcionament:
+Material: acer pla 25 5, longitud bruta 15
+Escalfeu l'acer pla a foc blanc
+Forja d'anades 1
+Forma de falca de forja 2
+Mantingueu els costats amples paral·lels
+Repartiu les cantonades en fred
+Fixeu la punta de la falca a la morsa
+Vores de copa 3
+tingueu en compte que les ventoses sobresurten cap al costat ample de la falca
+Talleu la falca a la longitud
+trencar les vores superiors
+
+Falca de martell
 
 ---
 ## pagina 60
