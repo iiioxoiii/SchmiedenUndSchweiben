@@ -312,7 +312,7 @@ material
 U St 37-1
 Bloc de paret
 ---
-## pàgina 8
+## pàgina 9
 ### alemany 
 Arbeitsgang:
 gestreckte Länge der Öse: 40 mm 3,14 = 125 mm
