@@ -173,7 +173,64 @@ Talleu la falca a la longitud
 trencar les vores superiors
 
 Falca de martell
+---
+## pàgina 6
+### alemany
+Zapfen quadratisch:
+Stahl auf Weißglut erwärmen
+Stabende auf Zapfenstärke vorschmieden
+1
+mit Setzhammerober- und -unterteil ansetzen 2
+in passendes Nageleisen einschlagen, um scharfe Kanten zu erhalten 3
+Zapfen rund:
+Stahl auf Weiẞglut erwärmen
+Stabende quadratisch vorschmieden 1
+mit Setzhammerober- und -unterteil ansetzen 2
+Zapfen achtkantig schmieden
+Zapfen mit Rundgesenk schlichten 6
+in passendes Nageleisen einschlagen 3
+Bei stärkeren Abmessungen zu beachten:
+Zapfen quadratisch bzw. weiter achtkantig vorschmieden
+mit Ballhammerober- und -unterteil auf Zapfenstärke einballen 4
+mit Handhammer vorschmieden 5
+auf genaue Stärke schmieden, bei mit Schlicht- oder Setzhammer.
+bei dl mit Rundgesenkober- und -unterteil 6
+in passendes Nageleisen einschlagen
 
+
+Werkstoff
+U St 37-1
+Zapfen ansetzen
+6
+
+### català
+Funcionament:
+Tenó quadrat:
+Escalfeu l'acer a foc blanc
+Extrem de barra de preforja fins al gruix de la espiga
+1
+Fixeu-vos amb les parts superior i inferior del martell de fixació 2
+Introduïu una planxa d'ungles adequada per obtenir vores afilades 3
+Tenó rodó:
+Escalfeu l'acer a foc blanc
+Quadre d'extrem de barra de preforja 1
+Fixeu-vos amb les parts superior i inferior del martell de fixació 2
+Forja tenons octogonals
+Acabeu la espiga amb el dau rodó 6
+martell en una planxa de claus adequada 3
+Tingueu en compte per a dimensions més grans:
+Tenons quadrades o octogonals de pre-forja
+Bola les parts superior i inferior amb un martell de bola fins al gruix de la espiga 4
+preforjar amb un martell de mà 5
+Forgeu el gruix exacte amb un martell d'acabat o de fixació.
+per dl amb matriu rodona part superior i inferior 6
+martell en una planxa de claus adequada
+
+
+material
+U St 37-1
+Enganxeu la espiga
+6
 ---
 ## pagina 60
 ### alemany
