@@ -1,4 +1,4 @@
-## El material fusta en la construcció del teló de fons
+## El material fusta en la construcció dels decorats
 
 ## fons
 
