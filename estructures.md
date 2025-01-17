@@ -492,6 +492,30 @@ Els elastòmers són plàstics elàstics. Les cadenes de molècules estan enlla�
 |Cautxú de cloropropilè | Elàstic com el cautxú.| Vestits de submarinisme. Guants.| Neopré|
 |Cautxú natural| Elàstic | La goma més usada a l'antigó |Goma|
 
+## 4. Plàstics en la constucció d'escenografia
+### 4.1 Styropor
+Revestiment d’un arc per a la representació d’una volta de pedra arenisca
+### 4.2 Plexiglas
+Representació de grans superfícies de finestres en un loft d’un gratacel. Els vidres estan muntats en marcs de MDF.
+Taller KA/SB, promoció 2015
+### 4.3 Tubos d'escuma
+Tubos d'escuma (ajudes per a la natació) com a superfícies per seure en una gandula futurista.
+"Dystopia" de Janina Schimmelbauer.
+### 4.4 Plafons de partícules recoberts
+Aquest apartat tracta dels plafons de partícules (o aglomerats) amb superfícies recobertes, sovint utilitzats en la construcció d’escenografies. El recobriment pot consistir en làmines decoratives, melamina o altres materials que milloren l'estètica, la durabilitat i la resistència del plafó, fent-los ideals per a mobiliari escènic o decorats temporals.
 
+### 4.5 Pel·lícula per a silos
+Pel·lícula de PVC: Utilitzada com a coberta per a l'ensilat de remolatxes.
+
+Aplicacions:
+Eina multifuncional per protegir components estructurals.
+També s'utilitza per enfosquir espais.
+Cobertura de protecció en estudis o platós.
+Promoció 2008.
+
+### 4.6 Plafons Bauder
+Plafons d'escula de PU. La companyia Bauder Stuttgart ofereix existències de segona mà de plafons PIR (poliisocianurat) a preus econòmics o gratuïtament. Aquest material és excel·lent per al treball mecànic.
+
+En l'obra "30sec" de M. v. Heydenaber, un especialista cau a través d'un sostre amb pedres de PU.(Info)[https://www.bauderfoam.com/en/applications/sandwich-and-panel-construction.html]
 
 
