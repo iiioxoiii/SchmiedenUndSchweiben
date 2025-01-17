@@ -518,4 +518,46 @@ Plafons d'escula de PU. La companyia Bauder Stuttgart ofereix existències de se
 
 En l'obra "30sec" de M. v. Heydenaber, un especialista cau a través d'un sostre amb pedres de PU.[web Bauder](https://www.bauderfoam.com/en/applications/sandwich-and-panel-construction.html)
 
+## 5. Alternatives
+
+Així és, normalment, el volum de residus generat després d’una producció en estudi. Es tracta de residus mixtos, cars de gestionar i gairebé sempre destinats a la incineració.  
+
+Per aquest motiu, a més de les alternatives que tímidament comencen a aparèixer a l'horitzó, és important dissenyar tant la construcció com el desmuntatge de manera que es pugui reutilitzar el màxim nombre possible de components.  
+
+Tanmateix, aquest objectiu sovint es veu impedit pel factor econòmic de l'emmagatzematge, ja que els costos ambientals i de gestió futura no es tenen en compte en el moment de comprar els materials.
+
+Lamentablement, és molt difícil introduir alternatives en el sector dels plàstics.Els plàstics com el Styropor són extremadament econòmics. Es poden adquirir i processar segons les necessitats específiques de cada aplicació.
+Són materials provats que garanteixen els resultats desitjats. En la producció cinematogràfica no hi ha temps per a experiments que podrien sortir malament. Sovint, les alternatives impliquen més temps de treball i, per tant, més costos econòmics. La MFG s'ha proposat, a través de la iniciativa "Green Shooting", donar més visibilitat a aquests temes i organitzar seminaris per promoure'n el debat.
+(https://greenshooting.mfg.de/praxiswissen/setdesign-und-dekobau/)[https://greenshooting.mfg.de/praxiswissen/setdesign-und-dekobau/]
+
+### 5.1 Dekozell
+
+És una pasta cel·lulòsica. Es tracta d'un tipus de material lleuger, sovint fet a base de paper o altres fibres vegetals, que es caracteritza per la seva capacitat per ser fàcilment tallat, pintat i modelat.
+
+En el taller de complementació de decorats de 2015 es van reproduir arbres. Els materials bàsics eren taulons de fusta com a estructura, sobre els quals es va estirar fil de ferro i es va modelar en forma d’arbre. El fil es va revestir amb sac de tela i es va ruixar amb una pasta de cel·lulosa (Dekozell).
+
+Conclusió:
+
+Bon resultat, però amb llargues hores de treball i temps de secat.
+La gestió dels residus també va ser insatisfactòria, ja que es tractava d’una barreja de materials heterogenis.
+Però, sense plàstic.
+
+### 5.2 Cola de conill
+(Revisar la diferència entre cola de conill i cola animal)
+En el vídeo publicitari per a Seat, "The Village", Jasminca Mikec va modelar una galeria utilitzant una estructura de llistons de fusta, aranya de conill i tela de lli impregnata amb cola d'ossos. La forma es va ruixar amb cola per a rajoles.
+
+Conclusió:
+Bon resultat.
+La cola d'ossos es va tornar tova en entrar en contacte amb la cola per a rajoles humida.
+La gestió dels residus va ser insatisfactòria a causa de la barreja de materials heterogenis.
+Però, sense plàstic.
+
+### 5.3 Fongs
+
+"BioFoam", fabricat per la companyia neerlandesa Synbra, és un material biodegradable creat a partir de residus orgànics com el blat de moro o les serradures de fusta, als quals se'ls afegeix mycelium (una part del fong). D'aquesta manera, es desenvolupa una xarxa fúngica que pot ser aturada en qualsevol moment mitjançant calor.
+
+El producte final s'assembla molt a l'EPS (poliestirè expandit), però per facilitar la seva identificació, es tenyit de verd. Té propietats similars a les de l'EPS, però amb l'avantatge de ser més respectuós amb el medi ambient.
+
+
+
 
