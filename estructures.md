@@ -482,6 +482,16 @@ Consisteixen en cadenes de molècules lineals no enllaçades. Es fonen quan s'es
 | Polipropilè (PP) | Translúcid o tèrbol | Teixits de fons per a catifes. Carcasses de maletes o automòbils | Hostalen PP. Novolen. Vestolen P|
 | Polimetilmetacrilat (PMMA)| Transparent, dur i rígid | Baanyeres. Lents de sol o ulleres. Mobiliari petit. Pantalles| Acryl.Plexiglass| 
 
+### 3.3 Elastòmers
+
+Els elastòmers són plàstics elàstics. Les cadenes de molècules estan enllaçades de manera poc densa, la qual cosa fa que els materials fabricats a partir d'ells siguin deformables a temperatura ambient, però que, malgrat tot, tornen de manera autònoma a la seva forma original.
+
+| Tipus | Propietats | Aplicacions | Noms Comercials|
+| --- | --- | --- | --- |
+|Poliuretà (PUR) | Resistència a les ratllades i gomes elàstiques| Adhesius. Juntes d'estanqueïtat.Material aïllant. Escuma per a la construcció | Escuma de poliuretà (Schaumstoff)|
+|Cautxú de cloropropilè | Elàstic com el cautxú.| Vestits de submarinisme. Guants.| Neopré|
+|Cautxú natural| Elàstic | La goma més usada a l'antigó |Goma|
+
 
 
 
