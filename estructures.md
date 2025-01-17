@@ -463,3 +463,25 @@ Els termoestables no són deformables, són durs i fràgils, i no s'estoven quan
 
 | Tipus | Propietats | Aplicacions | Noms Comercials|
 | --- | --- | --- | --- |
+| Fenolresina (PF) | Coloració fosca (normalment negre o marró fosc).
+Resistència a les ratllades.| Quadres de distribució elèctrica (caixes de fusibles). Materials aïllants per a aplicacions elèctriques i tèrmiques.| Bakelit.Corephan.Supraplast.|
+| Melamina (MF)| Material dur i opac | Laminats d'alta pressió (HPL) utilitzats en superfícies de treball, com taulells de cuina i taules. Recobriments decoratius i protectors per a mobiliari i interiors.| Kunstharz |
+|Polyester (UP)| Vidriós/a, estable, també en forma metàl·lica.| Masses per emplenar, nanses de pots, GFK (Plàstic Reforçat amb Fibra de Vidre).| Polyester |
+
+### 3.2. Termoplàstic
+
+Consisteixen en cadenes de molècules lineals no enllaçades. Es fonen quan s'escalfen i es poden modelar en qualsevol forma desitjada, mantenint-se estables després de refredar-se.
+
+| Tipus | Propietats | Aplicacions | Noms Comercials|
+| --- | --- | --- | --- |
+|Policarbonat (PC)| Groguenc o clar com el vidre |  Dur i resistent als cops| Làmines dper a senyals. Viseres de casc de seguretat. Llumetes posteriors i intermitents de vehicles| Lexan. Makrolon|
+| Polietilè (PE)| Trasparent i dur. Es torna gràgil a temperatures molt baixes | Paviments. Làmines per a termoconformat. Embalatges. Tubs. | Hostalit. Trosiplast. Vestolit.|
+| Polietilè(PE)| Transparent fins a blanc lleixiu. No és resistent a les ratllades | Aïllament de calbes. Ampolles. Embalatges | Holstalen. Vestolen.|
+|Poliestirè (PS)| Trencadís. Sensible a la calor. | Material d'embalatge. Aïllants en la construcció. | Styropor. |
+| Poliamida(PA) | Blanc, tèrbol, opac. No és trencadidís.| Tubs, connexions de benzina, roba impermeable.| Nylon. (Perlon)[https://ca.wikipedia.org/wiki/Nil%C3%B3_6]|
+| Polipropilè (PP) | Translúcid o tèrbol | Teixits de fons per a catifes. Carcasses de maletes o automòbils | Hostalen PP. Novolen. Vestolen P|
+| Polimetilmetacrilat (PMMA)| Transparent, dur i rígid | Baanyeres. Lents de sol o ulleres. Mobiliari petit. Pantalles| Acryl.Plexiglass| 
+
+
+
+
