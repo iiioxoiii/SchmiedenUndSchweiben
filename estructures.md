@@ -516,6 +516,6 @@ Promoció 2008.
 ### 4.6 Plafons Bauder
 Plafons d'escula de PU. La companyia Bauder Stuttgart ofereix existències de segona mà de plafons PIR (poliisocianurat) a preus econòmics o gratuïtament. Aquest material és excel·lent per al treball mecànic.
 
-En l'obra "30sec" de M. v. Heydenaber, un especialista cau a través d'un sostre amb pedres de PU.![Info](https://www.bauderfoam.com/en/applications/sandwich-and-panel-construction.html)
+En l'obra "30sec" de M. v. Heydenaber, un especialista cau a través d'un sostre amb pedres de PU.[web Bauder](https://www.bauderfoam.com/en/applications/sandwich-and-panel-construction.html)
 
 
