@@ -399,18 +399,67 @@ Fins i tot els paisatges es formen amb europalets.
 Són fàcils d'aconseguir i poden ser resistents es formen estructures.
 (aquí Nadal 1914 de Ralitza Ivanova)
 
+---
+
+Plàstics en la construcció de fons
+
+fons
+
+1. Història
+
+2. Aspectes ambientals
+
+3. Distinció tècnica
+3.1. Termosets
+3.2. Termoplàstics
+3.3. Elastòmers
+
+4. Plàstics en la construcció de fons
+4.1. Espuma de poliestiré
+4.2. Plexiglass
+4.3. Escuma
+4.4. Aglomerat recobert
+4.5. Pel·lícula de sitja
+4.6. "Plaques Bauder"
+
+5. Alternatives
+5.1. "cel·la deco"
+5.2. Cola d'os
+5.3. Música del futur
+
+---
+
+fons
+El plàstic és un material d'origen orgànic, amb el carboni com a principal component. Gairebé tots els plàstics contenen també hidrogen, molts també oxigen o nitrogen. Més del 90% del plàstic es produeix a partir de matèries primeres fòssils com el petroli, el gas i el carbó. A diferència dels altres materials descrits, els plàstics no tenen una llarga tradició d'ús artesanal. En un curt període de temps s'han desenvolupat i continuen desenvolupant-se nous materials o modificacions que competeixen amb els materials tradicionals. En aquest procés, els avantatges de les aplicacions són prioritaris. Les repercussions sobre la salut i el medi ambient sovint es revelen només amb el temps o simplement es desconeixen.
 
 
+## 1. Història
 
+Aquesta gràfica mostra clarament que el desenvolupament dels plàstics està estretament relacionat amb la industrialització. Es va invertir capital en recerca. Alguns materials, com el cel·luloide, ja han quedat obsolets. 
 
+S'hi pot observar que els materials més importants ja havien estat inventats abans de finals de 1950. A causa de la producció bèl·lica durant la Segona Guerra Mundial, l'ús d'aquestes invencions va quedar bloquejat. Només després que es completés majoritàriament la reconstrucció, es va començar a desenvolupar aquesta indústria. 
 
+La gràfica també mostra que la producció massiva no va agafar impuls fins a partir de 1970.
 
+2. Aspectes mediambientals
 
+En la fabricació de plàstics es consumeix una gran quantitat d’energia. L’energia vinculada al material és aquella que s’utilitza des de l’extracció fins a obtenir les matèries primeres processables.
 
+Si considerem l’aspecte de l’eliminació de productes no reciclables, els plàstics són, des del punt de vista ambiental, un material més aviat problemàtic. Alguns exemples inclouen els residus plàstics al mar i la contaminació biològica per microplàstics.
 
+Com que els productes de plàstic són barats i ofereixen propietats ajustades a les necessitats específiques d’ús, s’utilitzen amb freqüència en la construcció d’escenografies. No obstant això, els nostres productes solen tenir un període d’ús molt curt i després acaben com a residus. Per aquest motiu, hauríem de buscar alternatives.
 
+Exemple: imitacions de maó profundament modelades fetes de PVC.
 
+---
 
+A causa de la disponibilitat limitada de les matèries primeres fòssils, actualment s'està investigant i utilitzant cada vegada més els "plàstics d'origen biològic" produïts a partir de matèries primeres renovables. No obstant això, els plàstics fabricats amb biomassa, com el blat de moro, només es descomponen biològicament en part. El balanç ecològic d'aquests materials és deficient, ja que la seva producció ocupa terres agrícoles.
 
+## 3. Diferenciació tècnica
 
+### 3.1 Termoestables
 
+Els termoestables no són deformables, són durs i fràgils, i no s'estoven quan s'escalfen, ja que estan formats per macromolècules estretament entrellaçades en una estructura tridimensional.
+
+| Tipus | Propietats | Aplicacions | Noms Comercials|
+| --- | --- | --- | --- |
