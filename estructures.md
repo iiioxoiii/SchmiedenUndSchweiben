@@ -10,6 +10,7 @@
 1.4. Propietats generals
 
 ### 2. La fusta com a material
+
 2.1. Fusta massissa
 2.2. Materials tècnics de fusta
 2.2.1. Materials en capes
@@ -19,7 +20,7 @@
 
 ---
 
-fons
+# Introcucció
 
 Un recurs important per al nostre comerç prové del bosc. Hem de ser conscients. Pot ser que després del final de la Gran Edat de Gel fa uns 10.000 anys no hi hagués ni un bri d'herba dempeus a Europa. Fa uns 9.000 anys es va desenvolupar un bosc a tot Alemanya consistia principalment en faig. A partir de l'Edat Mitjana i l'expansió de l'agricultura el bosc va retrocedir.
 
@@ -28,7 +29,9 @@ En la comercialització de fustes del territori se'ns proposa l'abet, el castany
 ---
 
 # 1 L'arbre com a font de fusta
+
 ## 1.1 Fusta dura
+
 Els arbres que perden les fulles necessàries per a la fotosíntesi a la tardor es troben entre els
 fustes dures. Com més lent creix l'arbre, més densa és la seva estructura cel·lular. Això implica duresa i menys flexiblilitat.
 
@@ -94,47 +97,39 @@ són més susceptibles a patir malalties.
 
 ## Fenòmens que influeixen en la qualitat de la fusta
 
-- Comportament d'assecat dels anells dempeus – anells estirats
-- Esquerdament en sec
-- Branques encarnades: branques soltes
-- Albura
-- Si l'arbre està en pendent o al vent, té diferents característiques internes Estructures cel·lulars construïdes
-
----
-
-- Infestació de plagues (impressora de llibres, cuc de fusta, etc.)
+- Comportament d'assecat: anells dempeus – anells estirats
+- Segons el número de branques i el seu estat
+- L'Albura
+- Si l'arbre creix en una pendent o en una zona ventosa les estructures poden creixer diferent
+- Infestació de plagues d'insectes (cuc de fusta, etc.)
 - Danys causats per fongs (per exemple, podridura blava)
 
-## Reacció dels processadors de fusta
-### Fusteria-  ha de fer una selecció precisa de la fusta abans del processament
 
+## Processos de construcció
+### S'ha de fer una selecció precisa de la fusta abans del processament
+
+Ens hem de preguntar QUÈ NECESSITEM?
 - Fusta dura o tova
-- Quina superfície hauria de ser?
-- Hi ha algun defecte de la fusta? Branques perdudes, albura, fongs, podridura blava, etc.?
-- Està enganxat o simplement ranurat/cargolat perquè la fusta encara pugui treballar més tard
-pot?
-- Porta de tauler (expansió d'amplada forta) o porta de panell (poca expansió)
+- Quina superfície ha de tenir?
+- Ens importa si hi ha algun defecte de la fusta per branques, albura, fongs, podridura blava, etc.?
+- S'haurà d'adherir (ex. per llistons encolats) o simplement s'haurà de fer servir sense més.
+- ??
 - Les propietats de la fusta influeixen en el disseny
 
 ### Fusteria - ha de parar atenció a les propietats estàtiques
 - Si el cor roman a la biga en serrar, s'obrirà quan s'assequi
-- Si la fusta va ser talada en la fase de creixement (saba cel·lular a la fusta), ho farà
-ser més susceptible a les plagues
-- Com més gran sigui la proporció d'escorça/albura a la fusta (per als arbres joves), més Més proteïnes i més susceptibles als corcs de fusta
-- Amb la possibilitat d'ajudes tècniques (grua), la fusta es mulla
-(sense assecar) (l'assecat fa que la fusta perdi aproximadament 1/3 del seu pes)
-processats. Encara és agradable i recte quan està humit i la deformació es veurà
-S'evita en gran mesura clavar i cargolar.
-- L'altra opció és assecar la fusta artificialment. Esdevé mecànic
-Subjecció i assecat tècnicament (taulers de conformació, llistons) (Atenció – dimensions
+- Si la fusta va ser talada en la fase de creixement (saba cel·lular a la fusta), serà més susceptible a les plagues
+- Com més gran sigui la proporció d'escorça/albura a la fusta (els arbres joves), hi han més proteïnes a la matèria i la fusta serà susceptible als corcs.
+- Amb la possibilitat d'ajudes tècniques la fusta s'apida de manera que durant l'assecat no es deformi gaire. L'assecat fa que la fusta perdi aproximadament 1/3 del seu pes.
+- L'altra opció és assecar la fusta artificialment.
+-Subjecció i assecat tècnicament (taulers de conformació, llistons) (Atenció – dimensions
 a la llista de vendes es consideren sense assecar)
-- En els últims anys, la fusta massissa (KVH) i laminada(BSH) han prevalgut aquí, sobretot amb Construcció de marc de fusta (resistent al vent).
 
 (https://www.holzland.de/ratgeber/konstruktives-bauen/kvh-oder-bsh/)
 
 
-- La construcció del fons també es basa en fusta recta i sense distorsions.
-Els nostres llistons de teatre es fabriquen amb fusta massissa premium (Premium KVH hergestellt.)
+- **La construcció dels fons també es basa en fusta recta i sense distorsions.**
+Les qualitats dels llistons poden variar en tant a rectitud. Cal cercar material que no tingui defromacions o que en pugui tenir. 
 
 ---
 
