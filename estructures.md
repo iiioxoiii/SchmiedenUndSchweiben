@@ -20,20 +20,18 @@
 
 fons
 
-Un recurs important per al nostre comerç prové del bosc. Hem de ser conscients. Pot ser que després del final de la Gran Edat de Gel fa uns 10.000 anys no hi hagués ni un bri d'herba a Europa.
-es va posar dempeus. Fa uns 9.000 anys es va desenvolupar un bosc a tot Alemanya consistia principalment en faig. A partir de l'Edat Mitjana, això es va afavorir l'ús agrícola es va retrocedir. Al segle XVIII, a causa de la salo extracció de mineral de ferro tanta fusta es talava que un administratiu
-Va sorgir la silvicultura i es va introduir el principi de “sostenibilitat”. Només hauria es tala tanta fusta com torna a créixer.
-El bosc (alemany) actual és un 90% bosc comercial i es caracteritza per les condicions climàtiques. Els canvis van presentar reptes similars als del segle XVIII. Ell insisteix més del 50% fet de fustes toves. El faig, l'arbre que l'evolució va col·locar al bosc només està representat en un 15%.
+Un recurs important per al nostre comerç prové del bosc. Hem de ser conscients. Pot ser que després del final de la Gran Edat de Gel fa uns 10.000 anys no hi hagués ni un bri d'herba dempeus a Europa. Fa uns 9.000 anys es va desenvolupar un bosc a tot Alemanya consistia principalment en faig. A partir de l'Edat Mitjana i l'expansió de l'agricultura el bosc va retrocedir.
+
+En la comercialització de fustes del territori se'ns proposa l'abet, el castanyer, el faig, el freixe, espècies de pi, platan, abet, i espècies de roure.  
 
 ---
 
 # 1 L'arbre com a font de fusta
 ## 1.1 Fusta dura
 Els arbres que perden les fulles necessàries per a la fotosíntesi a la tardor es troben entre els
-fustes dures. Com més lent creix l'arbre, més densa és la seva estructura cel·lular. La seva fusta és
-per tant dur i menys flexible.
+fustes dures. Com més lent creix l'arbre, més densa és la seva estructura cel·lular. Això implica duresa i menys flexiblilitat.
 
-- **Les fustes dures** són el faig, el roure, el freixe i l'acàcia
+- **Les fustes dures** per exemple el faig, el roure, el freixe i l'acàcia
 - Alt pes específic (pes 600-750kg/m3)
 - Amb fibres curtes, de baixa qualitat estàtica (faig), però fàcil de polir
 - Llarga estada al bosc amb un preu elevat (per exemple, roure m3 superior a 1000 €)
@@ -49,54 +47,49 @@ per tant dur i menys flexible.
 
 ## 1.2 Fusta tova
 
-Les fustes toves conserven el seu verd durant els mesos d'hivern (excepte el làrix). Majoritàriament ràpidament arbres en creixement que formen fibres llargues i una estructura cel·lular menys densa
-tenen, per tant, més aviat lleugers i flexibles.
+Les fustes toves conserven el seu verd durant els mesos d'hivern (excepte el làrix). Majoritàriament, associat al creixement continuu i ràpid, les fibres són llargues i l'estructura cel·lular és menys densa. Això es tradueix en lleugeresa i flexibilitat.
 
 - Baix pes específic (pes 400-500kg/m3)
-- Estructura menys densa, fibres llargues que donen com a resultat una alta qualitat estàtica (“el que es doblega bé,
-trenca tard")
-- Collita més primerenca a causa del creixement més ràpid. Preu més barat (p. ex. avet m3 aprox. 450€)
+- Estructura menys densa, fibres llargues que donen com a resultat una alta qualitat estàtica (“el que es doblega bé, és trenca més tard")
+- Collita primerenca a causa del creixement més ràpid. Preu més barat (p. ex. avet m3 aprox. 450€)
 - Ús per propietats:
--- Avet, fusta (listons, taulers, bigues...)
--- Pi i làrix, altament resinosos – revestiments, revestiments en zones exteriors
+-- Avet:  fusta per llistons, taulers, bigues...
+-- Pi i làrix, altament resinosos: per revestiments interiors, revestiments en zones exteriors
 
 ## 1.3 Fusta tropical
-Majoritàriament arbres caducifolis que creixen en climes tropicals sense període de latència. Això ho fa possible Estructura més uniforme que l'estructura de la fusta que es caracteritza per anells anuals
-provenen de latituds temperades. Menys deformació, més assecat sense esquerdes.
-L'ús d'aquestes fustes s'ha de considerar críticament. 
+Majoritàriament arbres caducifolis que creixen en climes tropicals sense període de latència. Això fa possible una estructura més uniforme que l'estructura de la fusta que es caracteritza per anells anuals i que provenen de latituds més temperades. Menys deformació, més assecat, matèria més homogènia i sense esquerdes. L'ús d'aquestes fustes s'ha de considerar com un fet excepcional. 
 
 Les paraules clau són: desforestació selva tropical. Majoritàriament sense gestió sostenible, expulsió de pobles indígenes, durant molt de temps, llarges distàncies de transport.
 
-Ús per propietats:
-
+Tipus de fustes tropicals:
 - Meranti, Gabon, teca, caoba, fusta de balsa, etc.
+
+Usos
 - Contraxapats barats
 - Xapes nobles
 
 ---
-
 ## 1.4 Propietats generals
 
-- Es pot aconseguir una millor qualitat amb la fusta d'arbres que tendeixen a tenir fibres curtes
-Produir superfícies. En polir o planxar, les fibres s'eliminen de la Compost trencat o tallat. Quan estan humites, s'aixequen de la superfície, la superfície es torna rugosa (aigua, no polir a través del gra).
+- Es pot aconseguir una millor qualitat amb la fusta d'arbres que tendeixen a tenir fibres curtes (més petites).
+
+### Produir superfícies. 
+
+En polir, les fibres s'eliminen  trencant-se o tallant-se. Quan estan humites, s'aixequen de la superfície, la superfície es torna rugosa i fa de molt mal polir.
 
 - L'arbre creix a l'albura, aquí és on es transporten els nutrients de l'arbre. Aquesta zona és menys dura i més susceptible a les plagues que el duramen.
 
-- El creixement dels arbres a les zones temperades es caracteritza per una fase de creixement
-Primavera i estiu i un període de descans a l'hivern. Fort creixement a l'estiu. Gairebé no hi ha creixement a l'hivern. Això crea els anells anuals que influeixen en el tenen equilibri estàtic intern de la fusta. Com més jove sigui l'anell, més Està format per cèl·lules.
+- El creixement dels arbres a les zones temperades es caracteritza per una fase de creixement primavera i estiu i un període de descans a l'hivern: Un fort creixement a l'estiu i gairebé sense creixement a l'hivern, crea els anells anuals que influeixe en l'equilibri estàtic intern de la fusta. 
 
-Exemple: circumferència de l'anell anual al 4t any de creixement 12 cm, circumferència de l'anell anual al 20è any. any 60 cm. Les cel·les que formen el cercle tenen totes la mateixa mida i es redueixen quan Assecar en la mateixa quantitat. Així, els anells exteriors es redueixen més que això
-interior. Les tensions sorgeixen. Es crea la disposició al tauler o biga en serrar (anells dempeus-anells estirats). L'equilibri estàtic esdevé dissolt en serrar. Les conseqüències són deformacions i esquerdes.
+Exemple: circumferència de l'anell anual al 4t any de creixement 12 cm, circumferència de l'anell anual al 20è any. any 60 cm. Les cel·les que formen el cercle tenen totes la mateixa mida i es redueixen quan s'asequen. Així, els anells exteriors es redueixen més que els els interns. Això provoca tensions 
+que mantenen l'arbre dempeus però quan la fusta es talla, hi han deformacions i s'esquerda.
 
-- A les zones climàtiques on el creixement és constantment el mateix, n'hi ha menys
-Problemes amb el processament posterior (fusta tropical).
+- A les zones climàtiques on el creixement és constantment el mateix, n'hi ha menys problemes amb el processament posterior (fusta tropical).
 
-- En climes freds (Escandinàvia, Sibèria) l'arbre creix més lentament. Menys creixement cel·lular en la fase de creixement significa menys contracció durant l'assecat
-(Avet nòrdic – fusta de gra fi).
+- En climes freds (Escandinàvia, Sibèria) l'arbre creix més lentament. Menys creixement cel·lular en la fase de creixement significa menys contracció durant l'assecat. (Avet nòrdic – fusta de gra fi).
 
-- El canvi climàtic modifica l'estructura forestal. Exemple avets (arrels poc profundes): Són
-Susceptible al vent i no pot suportar llargs períodes secs. Alternativament, ara es propaga Avet de Douglas plantat. En general, els arbres estan sota estrès (per exemple, pluja àcida)
-més susceptibles a les malalties.
+- El canvi climàtic modifica l'estructura forestal. Exemple avets amb arrels poc profundes, els fa susceptibles al vent i no poden suportar llargs períodes secs. Una espècie que aguanta millor aquests problemes és Avet de Douglas. En general, els arbres que pateixen més estrès (per exemple, pluja àcida)
+són més susceptibles a patir malalties.
 
 ## Fenòmens que influeixen en la qualitat de la fusta
 
