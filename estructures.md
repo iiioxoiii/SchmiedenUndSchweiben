@@ -622,8 +622,8 @@ Per anar bé calen tres llistons horitzontals per paret i distribuits segons l'o
 ## 1.7 Cantonades
 A les cantonades hi ha el problema que si la cantonada és exterior els travessers horitzontals toquen i  
 
-## 1.8 
-
+## 1.8 Construcció de panells i revestiments pel terra
+Depenent del terra és pot muntar el terra abans de les parets o després
 
 
 Panells de 1000X3000mm
