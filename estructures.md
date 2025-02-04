@@ -20,7 +20,7 @@
 
 ---
 
-# Introcucció
+# Introducció
 
 Un recurs important per al nostre comerç prové del bosc. Hem de ser conscients. Pot ser que després del final de la Gran Edat de Gel fa uns 10.000 anys no hi hagués ni un bri d'herba dempeus a Europa. Fa uns 9.000 anys es va desenvolupar un bosc a tot Alemanya consistia principalment en faig. A partir de l'Edat Mitjana i l'expansió de l'agricultura el bosc va retrocedir.
 
@@ -546,6 +546,161 @@ Però, sense plàstic.
 "BioFoam", fabricat per la companyia neerlandesa Synbra, és un material biodegradable creat a partir de residus orgànics com el blat de moro o les serradures de fusta, als quals se'ls afegeix mycelium (una part del fong). D'aquesta manera, es desenvolupa una xarxa fúngica que pot ser aturada en qualsevol moment mitjançant calor.
 
 El producte final s'assembla molt a l'EPS (poliestirè expandit), però per facilitar la seva identificació, es tenyit de verd. Té propietats similars a les de l'EPS, però amb l'avantatge de ser més respectuós amb el medi ambient.
+
+---
+
+# Bautechnik
+# Tecnologia de la Construcció
+
+## Index
+1.Construcció 
+1.1. L'obertura
+1.2. Distribucio dels panells
+1.3. Subjecció panells
+1.4. Espaiat de 16 mm
+1.5. Revela a les finestres
+1.6. Revela a les portes
+1.7. Cantonades de l'habitació/paret
+1.8. Construcció de fascia i revestiments de sòls
+1.9. Dobles parets
+1.10. Posar parets
+1.11. ortiga
+1.12. Instal·lació de la porta
+1.13. Instal·lació de finestres
+1.14. Construcció del sostre
+1.15. Saltar parets
+1.16. Lliscament d'encaminament de l'obertura
+1.17. Protecció especial per a parets
+1.18. Murs de monstres
+1.19. Parets de panells en plataformes
+1.20. Fascias com a estructures de construcció
+1.21. Col·locació de decoracions a les parets de la fàscia
+---
+
+## Tecnologia de la construcció
+
+Dues regles importants de tecnologia de construcció en la construcció de pel·lícules es relacionen amb l'acte d'equilibri entre
+voluntat i viabilitat.
+
+1. El mil·límetre superior del teló de fons és visible a la pel·lícula. Tinc la meva pols davant
+La formació d'aquesta fina capa ja s'ha esgotat i ja no hi ha prou força el toc final més important.
+2. La vostra pròpia distribució de forces i la dels vostres empleats ha de ser tal que: «Un somni reparador sempre es fa prou i en llits adequats».
+
+<imatge 01>
+
+## Blendenbau (¿?)
+## 1.2 L'obertura (inici)
+
+Un panell consta d'un marc estable fet de llistons de teatre (28x60mm) cobert amb fusta contraxapada de 4 mm. El resultat és d'un gruix de 32 mm. L'amplada dels panells depèn de les anomenades dimensions estàndard de trepes del sistema d'il·luminació alemany (1/8 de metre = 12,5 cm). 
+Les següents amplades serien les que es porten a terme en aquest sistema :
+25 - 37,5 - 50 - 62,5 - 75 - 87,5 i 100 cm.
+
+Les alçades disponibles són de 250, 300 i 350 cm. Els panells de paret es poden fer en gradacions de 12,5 cm de longitud. 
+
+Per a la instal·lació de finestres i portes hi han panells especials de la part superior i inferior del forat (per exemple, 100 x 100 o 100 x 87,5, etc.).
+
+## 1.3 Alinear els panells
+Fer servir serjants per unir-los encara que sigui temporalment i alineats horitzontalment. Cal agafar un punt de referència i al lloc on es recolza.
+
+Les diferents peces s’uneixen amb llistons de teatre (28x 60)(Theaterlatten). Preferiblement, aquests llistons s’han de col·locar sobre els travessers horitzontals dels panells (Blenden).
+
+Els llistons es fixen als panells amb cargols per a fusta (4x55 mm) en cada unió. Per evitar haver de preforadar els llistons, s’utilitzen volanderes (Unterlegscheiben). Això garanteix una pressió òptima del llistó contra el panell.
+
+L’ús de cargols més curts pot afectar l’estabilitat de l’estructura.
+
+## 1.4 Distància de 16 mm
+Cal deixar un marge de 16 mm dels llistons de teatre (els horitzontals) per poder entelar amb grapes el cotò del revestiment.
+
+## 1.5 Finestra
+El marc de la finestra es cargola per la part del davanr del panell però sense volanderes perquè no sobresurti res i sembli que és un bloc. Cal prestar atenció també a les cantonades del marc. Si el marc de la finestra està per sobre del forat i es nota després de posar la tela es veurà fatal.
+
+## 1.6 Portes
+Els llistons horitzontals poden servir per pinçar les teles però si es veu magre es poden tallar els llistons horitzontals més curts i grapar la tela.
+Per anar bé calen tres llistons horitzontals per paret i distribuits segons l'obertura de la llum del panell travesser.
+
+## 1.7 Cantonades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
