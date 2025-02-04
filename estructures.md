@@ -553,13 +553,14 @@ El producte final s'assembla molt a l'EPS (poliestirè expandit), però per faci
 # Tecnologia de la Construcció
 
 ## Index
-1.Construcció 
+
+# 1. Construcció 
 1.1. L'obertura
 1.2. Distribucio dels panells
 1.3. Subjecció panells
 1.4. Espaiat de 16 mm
-1.5. Revela a les finestres
-1.6. Revela a les portes
+1.5. Finestres
+1.6. Portes
 1.7. Cantonades de l'habitació/paret
 1.8. Construcció de fascia i revestiments de sòls
 1.9. Dobles parets
@@ -619,14 +620,18 @@ Els llistons horitzontals poden servir per pinçar les teles però si es veu mag
 Per anar bé calen tres llistons horitzontals per paret i distribuits segons l'obertura de la llum del panell travesser.
 
 ## 1.7 Cantonades
+A les cantonades hi ha el problema que si la cantonada és exterior els travessers horitzontals toquen i  
+
+## 1.8 
 
 
 
+Panells de 1000X3000mm
+Panells de 1000x625mm (finestra top) x2 (+porta)
+Panells de 1000x875mm (finestra down) x1 (finestra)
 
-
-
-
-
+Marc de finestra a sang (intern)(1000x1500mm)
+Marc de port a sang (intern)
 
 
 
