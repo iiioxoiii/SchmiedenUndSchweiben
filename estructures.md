@@ -676,6 +676,22 @@ Cas 3: Parets arrebossades: La junta entre el panell i la cantonada es cobreix a
 En contrast amb la porta, una finestra és sovint la connexió entre l'interior i l'exterior.
 A l'interior es pinta, empapera o es repica. Les façanes exteriors estan repicades, tenen un aspecte de pedra o fusta. Per tant, a l'exterior hem de tenir en compte que hi haurà una capa més gruixuda, amb la qual cosa la unió entre el panell i la cantonada es pot cobrir fàcilment. Així que és més important entelar la cantonada de la paret interior. La tela s'ha de tallar de manera que les vores queden completament cobertes. A la part superior i inferior, es fa passar una mica de tela al voltant de les vores per poder enganxar-la. A la part inferior, la tela que falta es cobreix amb un sòcol. La part superior es cobreix amb tela enganxada. Una barra de cortina pot cobrir les petites imperfeccions.
 
+## 1.14 Instal·lació del sostre (dev)
+Una paret també pot funcionar com una placa de sostre.
+Els travessers horitzontals de connexió, al sostre es fixen atravessats als truss. D'aquesta manera, tenen una millor estabilitat contra la deformació. La llata de connexió ha de ser prèviament foradada i s'ha d'utilitzar la màxima longitud possible de cargols. El nombre total d'aquests cargols sostindrà al final el sostre.
+
+Una càlcul de seguretat aproximat (a emmagatzemar a epro) seria:
+La massa total de les blenden, incloent la tela i la decoració, dividida pel nombre de cargols.
+Així es pot calcular el pes que ha de suportar cada cargol.
+Per exemple, pes del sostre 300 kg : 60 cargols = 5 kg per cargol.
+Segons les "regles tècniques", es garanteix una seguretat del doble per a escenaris. Per als elements suspesos, la seguretat ha de ser 12 vegades més alta.
+A la imatge inferior, gràcies a la disposició de 2 travessers, es va poder cobrir la unió de les blenden.
+(imatge superior Dystopia / inferior KA-SB Workshop 2010)
+
+## 1.15 
+Aquí es veu clarament: el sostre que es deixa caure. Per estalviar diners en el nessel ample, es va cobrir el sostre amb plàstic de silo. El material decoratiu era Dekozell. La pasta de cel·lulosa va enganxar sorprenentment bé a la pel·lícula de plàstic i es podia arrencar parcialment com si fos una "capeta de pintura que s'està desprenent".
+No obstant això, a causa de l'amplitud i el pes del Dekozell mullat, el plàstic va cedir.
+(rosewood – Annika Klatt)
 
 
 
