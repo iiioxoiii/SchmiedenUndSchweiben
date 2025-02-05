@@ -135,23 +135,16 @@ Les qualitats dels llistons poden variar en tant a rectitud. Cal cercar material
 
 ### Indústria de la fusta - refina els productes segons les propietats requerides
 
-- Contraxapat, Muliplex: les capes més gruixudes de xapa són oposades a les fibres
+- Contraxapat, Multiplex: les capes més gruixudes de xapa són oposades a les fibres
 enganxat: el resultat és un material pla, dimensionalment estable i sense distorsions.
 
-- Blockboard: les barres d'avet massís enganxades estan cobertes amb xapa fina
-Capa superior enganxada. Panell estable lleuger (450 kg/m3) per a un xapat fi.
-Més barat que la fusta contraxapada.
+- Blockboard: les barres d'avet massís enganxades i cobertes per una llàmina superior enganxada. Panell estable lleuger (450 kg/m3) per a un xapat fi. Més barat que la fusta contraxapada.
 
-- Tauler OSB (Oriented Strand Board): les estelles de fusta es col·loquen entre si
-capes alineades enganxades. Tauler de construcció estable i econòmic.
+- Tauler OSB (Oriented Strand Board): les estelles de fusta es col·loquen entre si capes alineades enganxades. Tauler de construcció estable i econòmic.
 
-- Tauler d'aglomerat: les estelles de fusta triturades es tornen homogènies
-Polpa de fusta barrejada amb adhesius i premsada en panells. Barat, moderat
-panell pla pesat (600 kg/m3) amb vora altament absorbent.
+- Tauler d'aglomerat: les estelles de fusta triturades es tornen homogènies. Polpa de fusta barrejada amb adhesius i premsada en panells. Barat, moderat panell pla pesat (600 kg/m3) amb vora altament absorbent. Hi han amb melamines encolades.
 
-- MDF/tauler de fibra de densitat mitjana: procés similar al tauler d'aglomerat
-La matèria primera són fibres de fusta. Tauler d'alta qualitat i pesat (750 kg/m3).
-vora densa.
+- MDF/tauler de fibra de densitat mitjana: procés similar al tauler d'aglomerat. La matèria primera són fibres de fusta. Tauler d'alta qualitat i pesat (750 kg/m3) vora densa.
 
 - Laminat/laminat: papers empapats de resina de melanina pressionats uns sobre els altres,
 capa superior com a capa decorativa.
@@ -197,11 +190,11 @@ Preu per metre del nostre venedor de fusta 1,15€
 
 ---
 
-### bar
+### Barres, llistons
 Estret, llarg, perfilat
 Aquí qualsevol barra de perfil
 
-### KVH
+### KVH Massís
 Fusta estructural massissa: taulers massís, bigues
 s'assequen i després s'aplanen i s'assequen a mida.
 Productes premium fins i tot articulats. Dimensió recta
@@ -623,7 +616,55 @@ Per anar bé calen tres llistons horitzontals per paret i distribuits segons l'o
 A les cantonades hi ha el problema que si la cantonada és exterior els travessers horitzontals toquen i  
 
 ## 1.8 Construcció de panells i revestiments pel terra
-Depenent del terra és pot muntar el terra abans de les parets o després
+Depenent del terra és pot muntar el terra abans de les parets o després. Si el terra és prim pot anar per sota de les parets i s'acaba d'atrapar amb les pareds. Si el terra és gruixut millor posar-lo després arrembat a les pareds per no haver de posar les pareds a sobre d'un terra que segurament pot perdre l'alineació o la fixació.
+
+## 1.9 Parets dobles
+
+Parets amb doble estructura per donar més estabilitat o permetre el pas de cables, il·luminació o altres elements tècnics. 
+
+També poden ser una finestra o porta. Esa cargolen per les caixes i per la part de dins als llistons travessers i a la materixa alçada.
+
+Els blocs ajuden a tenir un distàcia estable i poden usar-se en blocs superiors per donar entabilitat a la doble pared.
+
+## 1.10 Muntantge de parets
+Les parets han d'estar a 90 entre elles i respecte al terra. Si hi han angulacions diferents caldria posar falques en les bases del panells i modificar el sistema d'escairat per mantenir el plafons tombats. Cal tenir-ho present en la descripció tècnica del projecte. Això també implica que la 
+
+# 1.11 Entelat
+La tela de cotó que tenim en estoc fa aproximadament 315 cm d'ample i es presenta en rotllos de 500 metres. Té un pes de 200 g/m² i no està impregnada amb tractament ignífug. (Segons la normativa DIN 4102 B1, si un teixit ignífug es pinta, el certificat d'ignifugació queda anul·lat).
+
+Després d'entelar les parets es preparen amb una capa de pintura base (normalment amb pintura sobrera). Es recomana diluir la pintura per reduir el risc que la tela s’adhereixi a la superfície sobre la qual es col·loca.
+
+Quan es pinta, la tela encongeix aproximadament un 3%, fent que les arrugues que quedaven després d'enganxar-la amb grapes (Tackern) desapareguin.
+
+Si la tela s'ha engrapat massa tibant, la contracció durant el pintat pot deformar les parets!
+
+El procés per entelar les parets de panell segueix els passos següents..
+
+### Avantatges
+Els panells es poden reutilitzar durant molt de temps, ja que no s’embruten amb restes de pintura, paper pintat o guix.
+Les juntes que es formen durant el muntatge queden totalment cobertes.
+No es formen esquerdes a les juntes, com passaria si es cobrissin amb massilla.
+Avantatge econòmic en la construcció:
+- Mètode de construcció amb panells: Un panell de 3 metres, entelat i sense acabar, costa aproximadament 10 € (els panells provenen d'estoc gratuït).
+- Construcció amb estructura: Un mòdul de 3 metres amb llistons de teatre (Theaterlatten) i panells SP16 costa uns 30 €/metre lineal.
+
+### Problemes
+Els panells només hi són en grans estudis.
+Quan es pinta amb els panells en horitzontal, les juntes poden marcar-se.
+Solució: Cobrir les juntes dels panells amb una cinta fina de PVC abans de pintar.
+Quan es pinta amb els panells en horitzontal, la tela pot enganxar-se als panells i formar arrugues en el transport o el muntatge
+
+Solució: Després de muntar els panells, ruixar-los amb aigua per suavitzar les arrugues.
+En grans panells de sostre, la tela pot penjar i fer bosses.
+
+Solucions:
+Aplicar una capa gruixuda de pintura no diluïda mentre el panell està en horitzontal perquè la tela s'enganxi als panells.Aplicar cola en alguns punts mentre es grapa per fixar millor la tela.
+
+
+
+
+
+
 
 
 Panells de 1000X3000mm
