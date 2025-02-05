@@ -660,8 +660,21 @@ En grans panells de sostre, la tela pot penjar i fer bosses.
 Solucions:
 Aplicar una capa gruixuda de pintura no diluïda mentre el panell està en horitzontal perquè la tela s'enganxi als panells.Aplicar cola en alguns punts mentre es grapa per fixar millor la tela.
 
+cantonades
+En les cantonades exteriors que no van empaperades, la cantonada pot veure's. Les que van empaperades poden entelar-se individualment perquè després es cobreix la tela amb el paper. En altre cas millor unir els panells per marcar la cantonada i entelar. També és pot fer servir una mica cinta adhesiva en les juntes entre panells entelats per dissimular la regatera.
 
+## 1.12 Instal·lació de la porta en una paret de panell
 
+Una porta de marc de fusta envolta completament el buit de la porta.
+Una porta de marc bloc es prem ajustada a la part de l'obertura. Hi ha 3 casos:
+
+Cas 1: Parets pintades: El problema aquí és que la tela (Nessel) no es pot estendre completament al voltant de la cantonada. A la cantonada de la paret hi manca un tros de tela. Una opció seria cobrir la junta de la paret amb cinta adhesiva i després cobrir la cantonada amb una tela més prima de Nessel (usant cola).
+Cas 2: Parets empaperades: Tal com es mostra a la il·lustració adjunta, la cantonada es cobreix amb un angle. La junta entre el marc bloc i el panell es cobreix amb una motllura decorativa.
+Cas 3: Parets arrebossades: La junta entre el panell i la cantonada es cobreix amb cinta adhesiva i després es repinta.
+
+## 1.13 Instal·lació d'una finestra en una pared de panell
+En contrast amb la porta, una finestra és sovint la connexió entre l'interior i l'exterior.
+A l'interior es pinta, empapera o es repica. Les façanes exteriors estan repicades, tenen un aspecte de pedra o fusta. Per tant, a l'exterior hem de tenir en compte que hi haurà una capa més gruixuda, amb la qual cosa la unió entre el panell i la cantonada es pot cobrir fàcilment. Així que és més important entelar la cantonada de la paret interior. La tela s'ha de tallar de manera que les vores queden completament cobertes. A la part superior i inferior, es fa passar una mica de tela al voltant de les vores per poder enganxar-la. A la part inferior, la tela que falta es cobreix amb un sòcol. La part superior es cobreix amb tela enganxada. Una barra de cortina pot cobrir les petites imperfeccions.
 
 
 
