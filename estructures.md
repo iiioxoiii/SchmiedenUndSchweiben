@@ -289,7 +289,7 @@ en construir murs |
 1.5. Escales
 1.6. Maons
 1.7. Estructures auxiliars tècniques
-1.8. pisos
+1.8. Pisos
 1.9. Rajoles
 1.10. Edificis especials
 1.11. Protecció contra incendis
@@ -343,7 +343,7 @@ Darrere de la pila d'enderrocs, es va construir un carrer sobre el marc alt de l
 Les plataformes grans, altes i estables també es poden fer ràpidament amb material de bastida. Sobretot, queda espai sota el podi perquè es pugui utilitzar un segon nivell. (aquí taller de disseny de producció "The Gorge")
 <imatge>
 
-Rèplica d'una torre Bismark prop de Heidelberg a l'estudi per a una escena de baralla.
+Rèplica d'una torre Bismark prop de Heidelberg a l'estudi per a una escena.
 Subestructura amb Layher-Allround. Ascensió dins. (The Sandman – Jurek Kuttner)
 <imatge>
 
@@ -361,9 +361,11 @@ La pell del capoll estava formada per [CONTRA H SUPER](https://www.gerriets.com/
 <imatge>
 
 ### Salt per l'acobàcia
+
 Construcció de bastides per a una acrobàcia que implica saltar per un sostre. Després de consultar amb l'acrobàcia, la construcció es podria preparar completament. La bastida no estava connectada a les parets de manera que les parets no es trontollaran quan es caminava (30 segons - Marlen von Heydenaber)
 
 ### Marc bàsic per a apartament de 2 plantes
+
 Hier wurde ein 2-stöckiger Bau realisiert. Die Wände wurden direkt an der Gerüstkonstruktion angedockt. Das Material wurde für 10% des Neuwertes von der Firma Layher zur Verfügung
 gestellt.
 
@@ -688,10 +690,41 @@ Segons les "regles tècniques", es garanteix una seguretat del doble per a escen
 A la imatge inferior, gràcies a la disposició de 2 travessers, es va poder cobrir la unió de les blenden.
 (imatge superior Dystopia / inferior KA-SB Workshop 2010)
 
-## 1.15 
 Aquí es veu clarament: el sostre que es deixa caure. Per estalviar diners en el nessel ample, es va cobrir el sostre amb plàstic de silo. El material decoratiu era Dekozell. La pasta de cel·lulosa va enganxar sorprenentment bé a la pel·lícula de plàstic i es podia arrencar parcialment com si fos una "capeta de pintura que s'està desprenent".
 No obstant això, a causa de l'amplitud i el pes del Dekozell mullat, el plàstic va cedir.
 (rosewood – Annika Klatt)
+
+## 1.15 Parets mòbils
+
+
+Les **parets mòbils** sempre que siguin **lleugeres i manejables**, es poden **moure millor amb dues persones**.  
+
+En el cas de **parets més grans**, aquestes es munten sobre **suports amb rodes**, que permetin desplaçar-les.  
+
+Per evitar el **contacte amb el terra**, les parets es **col·loquen sobre una base de 6 mm** en el moment del muntatge. No obstant això, això provoca que les **parets mòbils quedin 6 mm més altes** que les parets normals.  
+
+Si hi ha **elements de sostre**, caldrà **compensar aquesta diferència d'altura**.  
+
+
+### 1.16 Planol de muntatge
+Per estar ben preparat per al muntatge es po  treballar amb un full de muntatge.
+
+Aquest document inclou:
+
+    Vista posterior de la paret, amb totes les seves mides.
+    Llista de peces amb les dimensions necessàries.
+    Anotacions sobre possibles particularitats de la construcció.
+
+D’aquesta manera, l’equip de muntatge sap exactament quin material cal preparar per construir la paret.
+
+Un problema freqüent és que les parets es munten invertides (mirall), per això, aquest full es fixa a la part posterior de la paret fins que s’hagi completat el muntatge.
+
+Al plànol general s’indica el número de la paret per assegurar-ne la instal·lació correcta.
+
+Sovint es veu que els equips de construcció estan mal preparats i han de fer preguntes constants a la persona encarregada de la planificació, fet que consumeix molt de temps.
+
+El mateix problema es presenta en el tall de planxes: ningú hauria de tallar sense haver-se planificat prèviament.
+
 
 
 
