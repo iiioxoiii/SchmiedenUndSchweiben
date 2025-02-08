@@ -202,26 +202,28 @@ Preu per metre del nostre venedor de fusta 1,15€
 
 ---
 
-### Barres, llistons
-Estret, llarg, perfilat
-Aquí qualsevol barra de perfil
+### Llistons diversos
+Estrets, llargs, perfilats
+Aquí entren els altres tipus de perfils
 
-### KVH Massís
-Fusta estructural massissa: taulers massís, bigues
-s'assequen i després s'aplanen i s'assequen a mida.
-Productes premium fins i tot articulats. Dimensió recta
-Fusta en barres de 13 m de llarg. Des de 30x120mm fins a
-160x240mm
-€/m3 llarg ample gruix preu/metre corrent
-420 1 0,06 0,12 3,02 €
+### KVH Fusta Estructural Massisa
+Fusta estructural massissa: taulells massissos, bigues.
+El procediment de fabricació passa per l'asserrat, assecat i aplanat.
+És un producte sofisticat Es fa servir per treballs estructurals. Són molt rectes.
+Fusta en barres de 13 m de llarg. Des de 30x120mm fins a 160x240mm
 
-### BSH
-Fusta laminada encolada - taulers planyats
-enganxats, planxats i xamfranats. dimensional,
+| €/m3 | longitud | amplada | gruix | preu metre € |
+| --- | --- | --- | --- | --- |
+| 420 | 1 | 0,06 | 0,12 | 3,02 |
+
+### BSH Taulons encolats    
+Enganxats, planxats i xamfranats.
+És un producte també molt sofisticat Es fa servir per treballs estructurals. Són molt rectes.
 Bigues lliures de deformacions i esquerdes de fins a 12 m de longitud.
-Utilitzeu-lo en zones visibles, incloses les biguetes.
-€/m3 llarg ample gruix preu/metre corrent
-650 1 0,1 0,1 6,50 €
+
+| €/m3 | longitud | amplada | gruix | preu metre € |
+| --- | --- | --- | --- | --- |
+| 420 | 1 | 0,1 | 0,1 | 6,52 |
 
 ---
 
