@@ -137,7 +137,7 @@ Les qualitats dels llistons poden variar en tant a rectitud. Cal cercar material
 - Contraxapat, Multiplex: les capes més gruixudes de xapa són oposades a les fibres
 enganxat: el resultat és un material pla, dimensionalment estable i sense distorsions.
 
-- Blockboard: les barres d'avet massís enganxades i cobertes per una llàmina superior enganxada. Panell estable lleuger (450 kg/m3) per a un xapat fi. Més barat que la fusta contraxapada.
+- Blockboard: les barres d'avet massís enganxades i cobertes per una llàmina superior enganxada. Panell estable lleuger (450 kg/m3) per a un xapat fi. Similar a la fusta contraxapada però més barat.
 
 - Tauler OSB (Oriented Strand Board): les estelles de fusta es col·loquen entre si capes alineades enganxades. Tauler de construcció estable i econòmic.
 
@@ -165,25 +165,36 @@ Seccions transversals de fusta determinades.
 ---
 
 
-**Bigues**  W>70 mm H>200 mm A la serradora, normalment tallades a la humitat crua. Les dimensions corresponen a les dimensions de la incisió!
+### Bigues
+llarg > 70 mm ample>200 mm.
+Normament tallades a la serreria en cru. Les dimensions corresponen a les dimensions de la incisió!
 
-**Llistons quadrats**
-A<60 mm H<200 mm
+### Llistons quadrats
+llarg < 60 mm ample < 200 mm
 
-**Taulell**
-W>80 mm H<40 mm 
+### Taulons
+llarg > 80mm ample < 40 mm 
 
-Hier Baubohlen ungehobelt in 45mm Stärke, Breite 280mm
-Berechnung
+(càlcul en metres)
+| €/m3 | longitud | amplada | gruix | preu metre € |
+| --- | --- | --- | --- | --- | ---  |
+| 280 | 5 | 0,18 | 0,024 | 1,21 |  
 
-€/m3 länge breite dicke preis/lfm
-270 1 0,28 0,045 3,40 €
+### Taulons de construcció
+Sense encolar amb gruix de 45 mm i amplada de 280 mm
 
-bar
-B<80mm àrea de secció transversal <32cm2
+(càlcul en metres)
+| €/m3 | longitud | amplada | gruix | preu metre € |
+| --- | --- | --- | --- | --- | ---  |
+| 270 | 1 | 0,28| 0,045 | 3,40 |  
 
-aquí llistó de teatre, fusta encolada, unides a dit, cepillat i
-xamfranat 28x60mm en 6m de longitud
+### Llistons encolats 
+llarg < 80mm 
+àrea de secció transversal < 32 cm2
+
+Llistó de teatre, fusta encolada, enganxats, allisats i
+xamfranats de 28 x 60 mm en tires de 6 metres de longitud
+(3 quadrats de 28 x 20 passats )
 
 Preu per metre del nostre venedor de fusta 1,15€
 
@@ -226,12 +237,12 @@ generalment enganxats de manera transversal. Això garanteix una alta estabilita
 
 | Material de fusta (abreviatura) | Imatge | Propietats | Ús |
 | --- | --- | --- | --- |
-| Contraxapat de xapa (DU) aquí Placa de fusta contraxapada de Gabon | imatge | 4 – 28 mm, alt
+| Contraxapat de xapa (DU) | ![contraxapat](fusta_14.jpg) | 4 – 28 mm, alt
 Força, estabilitat dimensional i estabilitat dimensional. superfície té textura de fusta. Multiplex té capes més fines. | Placa de coberta nostra Bisells, construcció lleugera possible. Petits formats com Imitació de parquet. Lleu flexió superficial possible. Doblar fusta contraxapada. Finestra a la construcció del teló de fons. | 
-| barrera de xapa de construcció fusta (BFU) aquí Placa de pi marítim | imatge | 9 – 30 mm, molt alta resistència,
+| Xapa de construcció fusta (BFU)| ![xapa de construcció](fusta_15.jpg) | 9 – 30 mm, molt alta resistència,
 Aspecte de xapa molt feble | Tauler de fusta contraxapada barata, s'utilitza en la construcció de palets o caixes de transport, subestructura, marcs, edificis exteriors |
-| Contraxapat (SCH) aquí Tauler de 3 capes | imatge | força molt alta en la direcció de la fibra | Llosa d'edifici d'estudi, llosa de podi, escales |
-| Fusta premsada de resina sintètica (KP) aquí premsat de cadira | imatge | molt dur, alta resistència a l'abrasió, resistent a l'aigua, olis, àlcalis i àcids | Possiblement com a accessoris (per exemple, safates com a rètols), petxines de seients | 
+| Contraxapat (SCH) | ![contraxapat](fusta_15.jpg) | força molt alta en la direcció de la fibra | Llosa d'edifici d'estudi, llosa de podi, escales |
+| Fusta premsada de resina sintètica (KP) | imatge | molt dur, alta resistència a l'abrasió, resistent a l'aigua, olis, àlcalis i àcids | Possiblement com a accessoris (per exemple, safates com a rètols), petxines de seients | 
 | Laminats (HPL) aquí laminats | imatge | 0,8 o 1 mm, material de recobriment decoratiu. 6 – 13 mm com a panell HPL pur per a revestiment de façana | Beschichtung von Platten, Bau von Studiomöbeln | 
 
 ---
