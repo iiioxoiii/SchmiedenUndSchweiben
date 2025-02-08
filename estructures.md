@@ -1,6 +1,4 @@
-## El material fusta en la construcció dels decorats
-
-## fons
+# El material fusta en la construcció dels decorats
 
 ### 1. L'arbre com a font de fusta
 
@@ -19,7 +17,7 @@
 - Materials de fibra de fusta
 ---
 
-# Introducció
+## Introducció
 
 Un recurs important per al nostre comerç prové del bosc. Hem de ser conscients. Pot ser que després del final de la Gran Edat de Gel fa uns 10.000 anys no hi hagués ni un bri d'herba dempeus a Europa. Fa uns 9.000 anys es va desenvolupar un bosc a tot Alemanya consistia principalment en faig. A partir de l'Edat Mitjana i l'expansió de l'agricultura el bosc va retrocedir.
 
@@ -27,14 +25,17 @@ En la comercialització de fustes del territori se'ns proposa l'abet, el castany
 
 ---
 
-# 1 L'arbre com a font de fusta
+# 1. L'arbre com a font de fusta
 
 ## 1.1 Fusta dura
 
 Els arbres que perden les fulles necessàries per a la fotosíntesi a la tardor es troben entre els
 fustes dures. Com més lent creix l'arbre, més densa és la seva estructura cel·lular. Això implica duresa i menys flexiblilitat.
 
-- **Les fustes dures** per exemple el faig, el roure, el freixe i l'acàcia
+- **Les fustes dures**
+  > [!NOTE]
+  > per exemple el faig, el roure, el freixe i l'acàcia
+  
 - Alt pes específic (pes 600-750kg/m3)
 - Amb fibres curtes, de baixa qualitat estàtica (faig), però fàcil de polir
 - Llarga estada al bosc amb un preu elevat (per exemple, roure m3 superior a 1000 €)
@@ -42,11 +43,10 @@ fustes dures. Com més lent creix l'arbre, més densa és la seva estructura cel
 - Els boscos caducifolis més suaus són l'àlber, el bedoll, el til·ler i el salze
 - Menor pes específic (pes 500-600kg/m3)
 - Ús per propietats:
-
-    -- L'àlber, fàcilment doblable, es transforma en fusta contraxapada
-    -- Bedoll, bona relació de pes i duresa – barreja en fusta contraxapada Faig/bedoll
-    -- Til·ler, suau amb fibres curtes - fàcil de tallar,
-    -- Salzes, varetes individuals com a trena....
+- - L'àlber, fàcilment doblable, es transforma en fusta contraxapada
+  - Bedoll, bona relació de pes i duresa – barreja en fusta contraxapada Faig/bedoll
+  - Til·ler, suau amb fibres curtes - fàcil de tallar,
+  - Salzes, varetes individuals com a trena....
 
 ## 1.2 Fusta tova
 
