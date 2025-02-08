@@ -4,20 +4,19 @@
 
 ### 1. L'arbre com a font de fusta
 
-1.1. Fusta dura
-1.2. Fusta tova
-1.3. Fusta tropical
-1.4. Propietats generals
+- Fusta dura
+- Fusta tova
+- Fusta tropical
+- Propietats generals
 
 ### 2. La fusta com a material
 
-2.1. Fusta massissa
-2.2. Materials tècnics de fusta
-2.2.Materials en capes
-2.2.2. Composites
-2.2.3. Materials d'estella de fusta
-2.2.4. Materials de fibra de fusta
-
+- Fusta massissa
+- Materials tècnics de fusta
+- Materials en capes
+- Composites
+- Materials d'estella de fusta
+- Materials de fibra de fusta
 ---
 
 # Introducció
