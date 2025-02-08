@@ -176,6 +176,7 @@ llarg < 60 mm ample < 200 mm
 llarg > 80mm ample < 40 mm 
 
 (càlcul en metres)
+
 | €/m3 | longitud | amplada | gruix | preu metre € |
 | --- | --- | --- | --- | --- | ---  |
 | 280 | 5 | 0,18 | 0,024 | 1,21 |  
@@ -184,6 +185,7 @@ llarg > 80mm ample < 40 mm
 Sense encolar amb gruix de 45 mm i amplada de 280 mm
 
 (càlcul en metres)
+
 | €/m3 | longitud | amplada | gruix | preu metre € |
 | --- | --- | --- | --- | --- | ---  |
 | 270 | 1 | 0,28| 0,045 | 3,40 |  
