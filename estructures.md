@@ -32,7 +32,7 @@ En la comercialització de fustes del territori se'ns proposa l'abet, el castany
 Els arbres que perden les fulles necessàries per a la fotosíntesi a la tardor es troben entre els
 fustes dures. Com més lent creix l'arbre, més densa és la seva estructura cel·lular. Això implica duresa i menys flexiblilitat.
 
-- **Les fustes dures**
+**Les fustes dures**
   > [!NOTE]
   > per exemple el faig, el roure, el freixe i l'acàcia
   
