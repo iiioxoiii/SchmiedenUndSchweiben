@@ -43,7 +43,7 @@ fustes dures. Com més lent creix l'arbre, més densa és la seva estructura cel
 - Els boscos caducifolis més suaus són l'àlber, el bedoll, el til·ler i el salze
 - Menor pes específic (pes 500-600kg/m3)
 - Ús per propietats:
-- - L'àlber, fàcilment doblable, es transforma en fusta contraxapada
+  - L'àlber, fàcilment doblable, es transforma en fusta contraxapada
   - Bedoll, bona relació de pes i duresa – barreja en fusta contraxapada Faig/bedoll
   - Til·ler, suau amb fibres curtes - fàcil de tallar,
   - Salzes, varetes individuals com a trena....
