@@ -200,26 +200,32 @@ Preu per metre del nostre venedor de fusta ????€
 Estrets, llargs, perfilats
 Aquí entren els altres tipus de perfils
 
-### KVH (fusta estructural massissa)
-És un tipus de fusta estructural massisa **certificada**.
-El procediment de fabricació està controlat per donar lloc a un producte de molt alta qualitat i poder-se fer servir en la construcció. L'assecat i el tall es porta a terme molt controladament per evitar canvis en estructurals i dimensionals. 
+### KVH® (fusta estructural massissa)
+El seu nom prové del alemany *Konstruktionsvollholz* que vol dir «fusta de construcció».És un producte sofisticat. Es fa servir per treballs estructurals. És un tipus de fusta estructural massisa **certificada**. 
+
+El procediment de fabricació de la fusta KVH® està controlat per donar lloc a un producte de molt alta qualitat i poder-se fer servir en la construcció. L'assecat i el tall es porta a terme molt controladament per evitar canvis en estructurals i dimensionals.
+
 Les mides dels productes poden variar depenent del projecte perquè els elements poden empalmar-se amb el que es coneix amb sistema *finger-join*.
+
 > [!TIP]
-> El sistema finger-join és un sistema d'unó dentada i encolada que permet una unió de fusta molt resistent.
+> El sistema **finger-join** és un sistema d'unó dentada i encolada que permet una unió de fusta molt resistent.
 
-És un producte sofisticat. Es fa servir per treballs estructurals. Són molt rectes.
-El seu nom prové del alemany *Konstruktionsvollholz* que vol dir «fusta de construcció».
-
-
-Fusta en barres de 13 m de llarg. Des de 30x120mm fins a 160x240mm
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
 | --- | --- | --- | --- | --- |
 | 420 | 1 | 0,06 | 0,12 | 3,02 |
 
-### BSH Taulons encolats    
+### BSH (fusta laminada encolada) Taulons encolats    
+És una categoria comercial de fusta encolada (3 taulons mínim). 
+
+> [!TIP]
+> La fusta BSH està especial fabricada per la construcció per fer elements constructius que hagin de supòrtar càrreges i tensions elevades, oferir estabilitat i presentar un bon acabat.
+
+  
+Les làmines normalment són de 6 a 45 mm de fusta encolada del mateix tipus i en sentit paral·lel a les fibres (en sentit transversal o vertical). 
+Un cop asserrades les làmines s'assequen fins a un límit d'humitat i s'eliminen imperfeccions i resines. Després s'uneixen les peces amb encolat a pressió i finalment es perfilen i s'uneixen a pressuió també per les cantonades.
 Enganxats, planxats i xamfranats.
-És un producte també molt sofisticat Es fa servir per treballs estructurals. Són molt rectes.
+És un producte també molt sofisticatEs fa servir per treballs estructurals. Són molt rectes.
 Bigues lliures de deformacions i esquerdes de fins a 12 m de longitud.
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
