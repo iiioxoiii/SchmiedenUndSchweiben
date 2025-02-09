@@ -239,7 +239,6 @@ llargada: dels 6 metres als 18 metres.
 | --- | --- | --- | --- | --- |
 | 420 | 1 | 0,1 | 0,1 | 6,52 |
 
----
 
 ## 2.2 Materials tècnics de fusta
 
