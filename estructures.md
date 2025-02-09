@@ -215,18 +215,25 @@ Les mides dels productes poden variar depenent del projecte perquè els elements
 | --- | --- | --- | --- | --- |
 | 420 | 1 | 0,06 | 0,12 | 3,02 |
 
-### BSH (fusta laminada encolada) Taulons encolats    
-És una categoria comercial de fusta encolada (3 taulons mínim). 
+
+### MLE (fusta laminada encolada)
+És fusta encolada del mateix tipus i en sentit paral·lel a les fibres (en sentit transversal o vertical). 
+Espesors de 6 a 45 mm.
+Un cop asserrades les làmines s'assequen fins a un límit d'humitat i s'eliminen imperfeccions i resines. Després s'uneixen les peces amb encolat a pressió, es perfilen i s'uneixen a pressió també per les cantonades. Finalment s'aplica un tractament per retardar l'acció dels insectes i els fongs.
+
+> [!ATENTION]
+> La fusta compactada amb resines o se li ha aplicat un tractament de protecció a agents biològics s'ha de manipular extremant les precaucions.
+
+### BSH (fusta laminada encolada estructural)   
+És una categoria comercial de fusta encolada de 40 mm i de 3 taulons mínim. 
+
+ample: max. 28 mm
+altura: max 1280 mm
+llargada: dels 6 metres als 18 metres.
 
 > [!TIP]
 > La fusta BSH està especial fabricada per la construcció per fer elements constructius que hagin de supòrtar càrreges i tensions elevades, oferir estabilitat i presentar un bon acabat.
 
-  
-Les làmines normalment són de 6 a 45 mm de fusta encolada del mateix tipus i en sentit paral·lel a les fibres (en sentit transversal o vertical). 
-Un cop asserrades les làmines s'assequen fins a un límit d'humitat i s'eliminen imperfeccions i resines. Després s'uneixen les peces amb encolat a pressió i finalment es perfilen i s'uneixen a pressuió també per les cantonades.
-Enganxats, planxats i xamfranats.
-És un producte també molt sofisticatEs fa servir per treballs estructurals. Són molt rectes.
-Bigues lliures de deformacions i esquerdes de fins a 12 m de longitud.
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
 | --- | --- | --- | --- | --- |
