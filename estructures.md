@@ -204,7 +204,7 @@ Aquí entren els altres tipus de perfils
 És un tipus de fusta estructural massisa **certificada**.
 El procediment de fabricació està controlat per donar lloc a un producte de molt alta qualitat i poder-se fer servir en la construcció. L'assecat i el tall es porta a terme molt controladament per evitar canvis en estructurals i dimensionals. 
 Les mides dels productes poden variar depenent del projecte perquè els elements poden empalmar-se amb el que es coneix amb sistema *finger-join*.
-> [INFO]
+> [!TIP]
 > El sistema finger-join és un sistema d'unó dentada i encolada que permet una unió de fusta molt resistent.
 
 És un producte sofisticat. Es fa servir per treballs estructurals. Són molt rectes.
