@@ -201,7 +201,7 @@ Aquí entren els altres tipus de perfils
 ![motllures](fusta_12.jpg)
 
 ### KVH® (fusta estructural massissa)
-![motllures](fusta_13.jpg)
+![motllures](fusta_130.jpg)
 El seu nom prové del alemany *Konstruktionsvollholz* que vol dir «fusta de construcció».És un producte sofisticat. Es fa servir per treballs estructurals. És un tipus de fusta estructural massisa **certificada**. 
 
 El procediment de fabricació de la fusta KVH® està controlat per donar lloc a un producte de molt alta qualitat i poder-se fer servir en la construcció. L'assecat i el tall es porta a terme molt controladament per evitar canvis en estructurals i dimensionals.
