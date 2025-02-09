@@ -210,6 +210,7 @@ Les mides dels productes poden variar depenent del projecte perquè els elements
 > [!TIP]
 > El sistema **finger-join** és un sistema d'unó dentada i encolada que permet una unió de fusta molt resistent.
 
+![fusta_13.jpg](fusta_13.jpg)
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
 | --- | --- | --- | --- | --- |
