@@ -188,7 +188,7 @@ Sense encolar amb gruix de 45 mm i amplada de 280 mm
 ### Llistons encolats 
 llarg < 80mm 
 àrea de secció transversal < 32 cm2
-
+![taulons encolats](fusta_11.jpg)
 Llistó de teatre, fusta encolada, enganxats, allisats i
 xamfranats de 28 x 60 mm en tires de 6 metres de longitud
 (3 quadrats de 28 x 20 passats )
@@ -198,8 +198,10 @@ Preu per metre del nostre venedor de fusta ????€
 ### Llistons diversos
 Estrets, llargs, perfilats
 Aquí entren els altres tipus de perfils
+![motllures](fusta_12.jpg)
 
 ### KVH® (fusta estructural massissa)
+![motllures](fusta_13.jpg)
 El seu nom prové del alemany *Konstruktionsvollholz* que vol dir «fusta de construcció».És un producte sofisticat. Es fa servir per treballs estructurals. És un tipus de fusta estructural massisa **certificada**. 
 
 El procediment de fabricació de la fusta KVH® està controlat per donar lloc a un producte de molt alta qualitat i poder-se fer servir en la construcció. L'assecat i el tall es porta a terme molt controladament per evitar canvis en estructurals i dimensionals.
@@ -209,7 +211,7 @@ Les mides dels productes poden variar depenent del projecte perquè els elements
 > [!TIP]
 > El sistema **finger-join** és un sistema d'unó dentada i encolada que permet una unió de fusta molt resistent.
 
-![fusta_13.jpg](fusta_13.jpg)
+![fingerjoin](fusta_1322.jpg)
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
 | --- | --- | --- | --- | --- |
