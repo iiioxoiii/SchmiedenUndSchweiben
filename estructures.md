@@ -151,19 +151,13 @@ capa superior com a capa decorativa.
 
 ---
 
-2 La fusta com a material
+## 2 La fusta com a material
 
-2.1 Fusta massissa
-fusta
-Taulers i taulons tallats en diferents gruixos com a matèria primera per
-construcció de fusta massissa i construcció de mobles.
+## 2.1 Fusta massissa
 
-Ja sigui un cafè amb llet o un cafè amb llet o ja
-un tauler està definit pel
-Seccions transversals de fusta determinades.
+La trobem en taulers i taulons tallats en diferents gruixos com a matèria primera per construcció de mobles o elements estructurals. El taulell surt de l'asserrat del tronc en diferents mides.
 
 ---
-
 
 ### Bigues
 llarg > 70 mm ample>200 mm.
@@ -198,7 +192,7 @@ Llistó de teatre, fusta encolada, enganxats, allisats i
 xamfranats de 28 x 60 mm en tires de 6 metres de longitud
 (3 quadrats de 28 x 20 passats )
 
-Preu per metre del nostre venedor de fusta 1,15€
+Preu per metre del nostre venedor de fusta ????€
 
 ---
 
@@ -206,10 +200,17 @@ Preu per metre del nostre venedor de fusta 1,15€
 Estrets, llargs, perfilats
 Aquí entren els altres tipus de perfils
 
-### KVH Fusta Estructural Massisa
-Fusta estructural massissa: taulells massissos, bigues.
-El procediment de fabricació passa per l'asserrat, assecat i aplanat.
-És un producte sofisticat Es fa servir per treballs estructurals. Són molt rectes.
+### KVH (fusta estructural massissa)
+És un tipus de fusta estructural massisa **certificada**.
+El procediment de fabricació està controlat per donar lloc a un producte de molt alta qualitat i poder-se fer servir en la construcció. L'assecat i el tall es porta a terme molt controladament per evitar canvis en estructurals i dimensionals. 
+Les mides dels productes poden variar depenent del projecte perquè els elements poden empalmar-se amb el que es coneix amb sistema *finger-join*.
+> [INFO]
+> El sistema finger-join és un sistema d'unó dentada i encolada que permet una unió de fusta molt resistent.
+
+És un producte sofisticat. Es fa servir per treballs estructurals. Són molt rectes.
+El seu nom prové del alemany *Konstruktionsvollholz* que vol dir «fusta de construcció».
+
+
 Fusta en barres de 13 m de llarg. Des de 30x120mm fins a 160x240mm
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
