@@ -221,7 +221,7 @@ Les mides dels productes poden variar depenent del projecte perquè els elements
 Espesors de 6 a 45 mm.
 Un cop asserrades les làmines s'assequen fins a un límit d'humitat i s'eliminen imperfeccions i resines. Després s'uneixen les peces amb encolat a pressió, es perfilen i s'uneixen a pressió també per les cantonades. Finalment s'aplica un tractament per retardar l'acció dels insectes i els fongs.
 
-> [!ATENTION]
+> [!CAUTION]
 > La fusta compactada amb resines o se li ha aplicat un tractament de protecció a agents biològics s'ha de manipular extremant les precaucions.
 
 ### BSH (fusta laminada encolada estructural)   
