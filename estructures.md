@@ -126,11 +126,9 @@ a la llista de vendes es consideren sense assecar)
 
 (https://www.holzland.de/ratgeber/konstruktives-bauen/kvh-oder-bsh/)
 
+> [!IMPORTANT]
+> La construcció dels panells també es basa en **fusta recta i sense distorsions**. Les qualitats dels llistons poden variar en tant a rectitud. Cal cercar material que no tingui defromacions o que en pugui tenir. 
 
-- **La construcció dels fons també es basa en fusta recta i sense distorsions.**
-Les qualitats dels llistons poden variar en tant a rectitud. Cal cercar material que no tingui defromacions o que en pugui tenir. 
-
----
 
 ### Indústria de la fusta - refina els productes segons les propietats requerides
 
@@ -156,18 +154,21 @@ capa superior com a capa decorativa.
 ## 2.1 Fusta massissa
 
 La trobem en taulers i taulons tallats en diferents gruixos com a matèria primera per construcció de mobles o elements estructurals. El taulell surt de l'asserrat del tronc en diferents mides.
-
----
+![talls de fusta](fusta_05.jpg)
+![llistons](fusta_06.jpg)
 
 ### Bigues
 llarg > 70 mm ample>200 mm.
-Normament tallades a la serreria en cru. Les dimensions corresponen a les dimensions de la incisió!
+Normament tallades a la serreria en cru. Les dimensions corresponen a les dimensions de la incisió.
+![asserrat(fusta_07.jpg)
 
 ### Llistons quadrats
 llarg < 60 mm ample < 200 mm
+![listons](fusta_08.jpg)
 
 ### Taulons
 llarg > 80mm ample < 40 mm 
+![taulons](fusta_09.jpg)
 
 (càlcul en metres)
 
@@ -177,7 +178,7 @@ llarg > 80mm ample < 40 mm
 
 ### Taulons de construcció
 Sense encolar amb gruix de 45 mm i amplada de 280 mm
-
+![taulons](fusta_10.jpg)
 (càlcul en metres)
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
@@ -193,8 +194,6 @@ xamfranats de 28 x 60 mm en tires de 6 metres de longitud
 (3 quadrats de 28 x 20 passats )
 
 Preu per metre del nostre venedor de fusta ????€
-
----
 
 ### Llistons diversos
 Estrets, llargs, perfilats
@@ -243,11 +242,13 @@ llargada: dels 6 metres als 18 metres.
 
 ## 2.2 Materials tècnics de fusta
 
-Els materials de fusta són panells o peces modelades fetes de
-capes encolades o premsades de fusta, estelles o fibres de fusta.
-Aquests materials de fusta, que es classifiquen segons capes, compostos, estelles i
-Els materials de fibra de fusta difereixen, són més uniformes en la seva estructura i per sobre
-Totes les coses són més estables dimensionalment que la fusta massissa, el que les fa aptes per a grans àrees Oferir estructures de fusta.
+Són panells o peces modelades fetes de capes encolades o premsades de fusta, estelles o fibres de fusta. Aquests materials de fusta, que es classifiquen segons capes, compostos, estelles. Els materials de fibres de fusta difereixen, són més uniformes en la seva estructura.
+Són més estables dimensionalment que la fusta massissa, el que les fa aptes per a grans àrees estructurals.
+
+| Material de fusta (abreviatura) | Imatge | Propietats | Ús |
+| --- | --- | --- | --- |
+| Board (taulell de fibra)| ![contraxapat](fusta_14.jpg) | ecològic i sostenible. Les cantonades no estan tractades mentre que la superfície es repelent a l'aigua. Molt usat en stands i fires|   |
+
 
 ### Materials en capes
 consisteixen en panells enganxats per formar capes individuals de xapa. Les capes de xapa estan dins
@@ -260,8 +261,8 @@ Força, estabilitat dimensional i estabilitat dimensional. superfície té textu
 | Xapa de construcció fusta (BFU)| ![xapa de construcció](fusta_15.jpg) | 9 – 30 mm, molt alta resistència,
 Aspecte de xapa molt feble | Tauler de fusta contraxapada barata, s'utilitza en la construcció de palets o caixes de transport, subestructura, marcs, edificis exteriors |
 | Contraxapat (SCH) | ![contraxapat](fusta_15.jpg) | força molt alta en la direcció de la fibra | Llosa d'edifici d'estudi, llosa de podi, escales |
-| Fusta premsada de resina sintètica (KP) | imatge | molt dur, alta resistència a l'abrasió, resistent a l'aigua, olis, àlcalis i àcids | Possiblement com a accessoris (per exemple, safates com a rètols), petxines de seients | 
-| Laminats (HPL) aquí laminats | imatge | 0,8 o 1 mm, material de recobriment decoratiu. 6 – 13 mm com a panell HPL pur per a revestiment de façana | Beschichtung von Platten, Bau von Studiomöbeln | 
+| Fusta premsada de resina sintètica (fenòlica) (KP)| ![fenolica](fusta_15.jpg) | molt dur, alta resistència a l'abrasió, resistent a l'aigua, olis, àlcalis i àcids | Possiblement com a accessoris (per exemple, safates com a rètols), petxines de seients | 
+| Laminats (HPL) aquí laminats | ![contraxapat](fusta_15.jpg) | 0,8 o 1 mm, material de recobriment decoratiu. 6 – 13 mm com a panell HPL pur per a revestiment de façana | Beschichtung von Platten, Bau von Studiomöbeln | 
 
 ---
 
@@ -284,26 +285,25 @@ Fabricat amb estelles de fusta i cola de resina sintètica a uns 180 °C.
 
 | Material Fusta | Imatge | Característiques | Utilització | 
 | --- | --- | --- | --- | 
-| Panell de DM | imatge | 8-38 mm, més barat Fàbrica de discos teixit, superfície pintable, la vora necessita ser encolada o ha de ser omplerta | mobles, columnes,
-substitució de l'obertura, També com a col·locació de sòls Placa N/F, Construïm gairebé tot d'ell. |
-| Taulell OSB «Oriented Strand Board» | imatge | 8 – 30 mm, molt alt força de flexió, Estable, barat superfície a Amb prou feines llisos
+| Panell de DM | imatge | 8-38 mm, més barat Fàbrica de discos teixit, superfície pintable, la vora necessita ser encolada o ha de ser omplerta | mobles, columnes|
+| Taulell OSB «Oriented Strand Board» | imatge | 8 – 30 mm, molt alt força de flexió, Estable, barat|
 per aconseguir | Tauler de construcció també N/F, zones de plataforma, subestructura per tèxtil o PVC pisos | 
-| Panells de premsa plans recoberts de plàstic (KF) | imatge | Panells de premsa plans recoberts de plàstic, la superfície no és porosa, resistent a l'abrasió i resistent als àcids febles, difícil de patinar | Taulell de cuina en 38mm o 8-16-19mm
-com a panells decoratius revestits
+| Panells premsats plans recoberts de plàstic (KF) | imatge | Panells premsats plans recoberts de plàstic, la superfície no és porosa, resistent a l'abrasió i resistent als àcids febles, difícil de patinar | Taulell de cuina en 38mm o 8-16-19mm com a panells decoratius revestits |
 
----
 
 ## Material de fibra de fusta
 
 Consisteixen en fibres de fusta o palla de colza. Les plaques obtenen la seva força de la Poder d'unió de les matèries primeres desfibrades, o mitjançant l'addició d'adhesiu. Les condicions de pressió i temperatura durant la producció també tenen una gran influència en la resistència dels panells.
+
+
 | Material de Fusta | Imatge | Característiques | Utilització |
 | --- | --- | --- | --- |
 | Porós.Tauler de fibra | imatge | aïllant tèrmic, aïllant acústic, lleugerament mecànic
 també es pot processar a la superfície | Obra interior, possible pàtina estructural
 en construir murs |
-| Tauler de fibra dura HDF | imatge | 3, 5, 6 mm constantment igual dens, vora fàcil de pintar | El disseny d'interiors, la construcció de mobles, es pot enganxar de manera estable a una mitra; així es pot representar el gruix |
-| Tauler dur HB | imatge | 3, 4, 6 mm un costat llis, Tamís de la part posterior. Panell més barat: s'enrotlla ràpidament quan està humit | plaques de coberta, caixes |
-| Tauler de fibra de densitat mitjana (MDF) | imatge | 8 – 50 mm, superfície molt llisa. Les vores de la capa mitjana són menys denses i només es poden pintar de manera limitada | Construcció de mobles, disseny d'interiors |
+| Tauler de fibra dura (HDF) | imatge | 3, 5, 6 mm constantment igual dens, vora fàcil de pintar | El disseny d'interiors, la construcció de mobles, es pot enganxar de manera estable a una mitra; així es pot representar el gruix |
+| Tauler dur (HB) | imatge | 3, 4, 6 mm un costat llis, Tamís de la part posterior. Panell més barat: s'enrotlla ràpidament quan està humit | plaques de coberta, caixes |
+| Tauler de fibres de densitat mitjana (MDF) | imatge | 8 – 50 mm, superfície molt llisa. Les vores de la capa mitjana són menys denses i només es poden pintar de manera limitada | Construcció de mobles, disseny d'interiors |
 
 ---
 
