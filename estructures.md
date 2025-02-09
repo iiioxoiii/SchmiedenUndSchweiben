@@ -21,7 +21,7 @@
 
 Un recurs important per al nostre comerç prové del bosc. Hem de ser conscients. Pot ser que després del final de la Gran Edat de Gel fa uns 10.000 anys no hi hagués ni un bri d'herba dempeus a Europa. Fa uns 9.000 anys es va desenvolupar un bosc a tot Alemanya consistia principalment en faig. A partir de l'Edat Mitjana i l'expansió de l'agricultura el bosc va retrocedir.
 
-En la comercialització de fustes del territori se'ns proposa l'abet, el castanyer, el faig, el freixe, espècies de pi, platan, abet, i espècies de roure.  
+En la comercialització de fustes del territori se'ns proposa l'abet, el castanyer, el faig, el freixe, espècies de pi, platan, abet, i espècies de roure.
 
 ---
 
