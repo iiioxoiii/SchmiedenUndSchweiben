@@ -262,28 +262,30 @@ generalment enganxats de manera transversal. Això garanteix una alta estabilita
 
 | Material de fusta (abreviatura) | Imatge | Propietats | Ús |
 | --- | --- | --- | --- |
-| **Contraplacat** | ![contraxapat](fusta_20.jpg) | 4 – 28 mm, alt
-Força, estabilitat dimensional i estabilitat dimensional. superfície té textura de fusta. Multiplex té capes més fines. | Placa de coberta nostra Bisells, construcció lleugera. Imitació de parquet. Lleu flexió superficial possible. Doblar fusta contraxapada. Finestra a la construcció del teló de fons. | 
-| **Contraplacat estructural**  [BFU](https://www.esteba.com/ca/taulers-contraxapats)| ![xapa de construcció](fusta_15.jpg) | 9 – 30 mm, molt alta resistència,
-Aspecte de xapa molt feble | Tauler de fusta contrapacada barata, s'utilitza en la construcció de palets o caixes de transport, subestructura, marcs, edificis exteriors. Més resistent a la humitat que el contraplacat simple. |
-| Contraxapat (SCH) | ![contraxapat](fusta_15.jpg) | força molt alta en la direcció de la fibra | Llosa d'edifici d'estudi, llosa de podi, escales |
-| Fusta premsada de resina sintètica (fenòlica) (KP)| ![fenolica](fusta_15.jpg) | molt dur, alta resistència a l'abrasió, resistent a l'aigua, olis, àlcalis i àcids | Possiblement com a accessoris (per exemple, safates com a rètols), petxines de seients | 
-| Laminats (HPL) aquí laminats | ![contraxapat](fusta_15.jpg) | 0,8 o 1 mm, material de recobriment decoratiu. 6 – 13 mm com a panell HPL pur per a revestiment de façana | Beschichtung von Platten, Bau von Studiomöbeln | 
+| **Contraplacat** | ![contraxapat](fusta_20.jpg) | 4 – 28 mm, alt. Força, estabilitat dimensional i estabilitat dimensional. superfície té textura de fusta. Multiplex té capes més fines. | Placa de coberta nostra Bisells, construcció lleugera. Imitació de parquet. Lleu flexió superficial possible. Doblar fusta contraxapada. Finestra a la construcció del teló de fons. | 
+| **Contraplacat estructural**  [BFU](https://www.esteba.com/ca/taulers-contraxapats)| ![xapa de construcció](fusta_15.jpg) | 9 – 30 mm, molt alta resistència, Aspecte de xapa molt feble | Tauler de fusta contrapacada barata, s'utilitza en la construcció de palets o caixes de transport, subestructura, marcs, edificis exteriors. Més resistent a la humitat que el contraplacat simple. |
+| **Fusta laminada tricapa** [SCH](https://www.esteba.com/ca/tauler-de-fusta-tricapa-d-avet) | ![contraplacat](fusta_22.jpg) | alta força en la direcció de la fibra | Llosa d'edifici d'estudi, llosa de podi, escales |
+| **Fusta fenòlica o estratificada** (KP)| ![fenolica](fusta_23.jpg) | molt dur, alta resistència a l'abrasió, resistent a l'aigua, olis, àlcalis i àcids | Possiblement com a accessoris| 
+| **Laminats decoratius d'alta pressió (HPL)** aquí laminats | ![contraxapat](fusta_24.jpg) | 0,8 o 1 mm, material de recobriment decoratiu. 6 – 13 mm com a panell HPL per a revestiment de façana | | 
 
+[+ info contraplacats](https://www.esteba.com/ca/taulers-enllistonats-de-fusta)
+[+ info contraplacats calabó](https://www.solanellas.com/fusta-i-prefabricats/taulers/contraxapat/calabo--pt126)
+[+ info fenòlics](https://www.mausa.es/tableros-14)
+[+ info laminats alta pressió](https://hplaminats.com/ca/empresa-lamines-hpl/)
 
----
 
 ## Composites
 
-Són panells que consisteixen en dues capes de coberta i una capa mitjana. La capa mitjana pot consistir en fusta massissa, així com resines d'escuma o bresca de cartró. Per a les capes de coberta s'utilitzen generalment diverses xapes, revestiments de plàstic o metalls.
+Són panells que consisteixen en dues capes de coberta i una capa mitjana. La capa mitjana pot consistir en fusta massissa, així com resines d'escuma o bresca de cartó. Per a les capes de coberta s'utilitzen generalment diverses xapes, revestiments de plàstic o metalls.
 
 | Material Fusta | Imatge | Característiques | Utilització | 
 | --- | --- | --- | --- | 
-| Barra contraxapada (ST) (taulell) | imatge | 13 – 38 mm, gairebé la mateixa contracció en totes les direccions, fàcil de xapa, alta resistència a la flexió en la direcció de la vareta | Construcció de mobles (portes, parts de la carrosseria) i interiorisme (mobles encastats, fulles de portes, parts de la carrosseria). Alternativa a l'aglomerat, però massa car per a nosaltres | 
-| panell de bresca | imatge |  Placa de coberta aglomerat, MDF o decoració, estructura lleugera de niu d'abella de capa mitjana | Portes, portes corredisses, taulells, parets lleugeres |
-| Styro amb coberta de fusta | imatge | Lleuger, dimensionalment estable, aïllant | Decoració d'estudi reutilitzable |
+| **Contraxapada (ST) (taulell)** | ![contraplacat](fusta_25.jpg) | 13 – 38 mm, gairebé la mateixa contracció en totes les direccions, alta resistència a la flexió en la direcció de l'ànima | Construcció de mobles (portes, parts de la carrosseria) i interiorisme (mobles encastats, fulles de portes, parts de la carrosseria). Alternativa a l'aglomerat, però massa car per a nosaltres | 
+| **Panell de bresca** | ![contraplacat](fusta_26.jpg) |  Placa de coberta aglomerat, MDF o decoració, estructura lleugera de niu d'abella de capa mitjana | Portes, portes corredisses, taulells, parets lleugeres |
+| **Styro amb coberta de fusta** | ![contraplacat](fusta_27.jpg) | Lleuger, dimensionalment estable, aïllant | Decoració d'estudi reutilitzable |
 
----
+[+info panells sadwitch](https://teznocuber.com/paneles-sandwich/madera/)
+
 
 ## Materials d'estella de fusta
 
@@ -292,16 +294,15 @@ Fabricat amb estelles de fusta i cola de resina sintètica a uns 180 °C.
 
 | Material Fusta | Imatge | Característiques | Utilització | 
 | --- | --- | --- | --- | 
-| Panell de DM | imatge | 8-38 mm, més barat Fàbrica de discos teixit, superfície pintable, la vora necessita ser encolada o ha de ser omplerta | mobles, columnes|
-| Taulell OSB «Oriented Strand Board» | imatge | 8 – 30 mm, molt alt força de flexió, Estable, barat|
+| **Panell de DM**  | imatge | 8-38 mm, més barat Fàbrica de discos teixit, superfície pintable, la vora necessita ser encolada o ha de ser omplerta | mobles, columnes|
+| **Taulell OSB «Oriented Strand Board»** | imatge | 8 – 30 mm, molt alt força de flexió, Estable, barat|
 per aconseguir | Tauler de construcció també N/F, zones de plataforma, subestructura per tèxtil o PVC pisos | 
-| Panells premsats plans recoberts de plàstic (KF) | imatge | Panells premsats plans recoberts de plàstic, la superfície no és porosa, resistent a l'abrasió i resistent als àcids febles, difícil de patinar | Taulell de cuina en 38mm o 8-16-19mm com a panells decoratius revestits |
+| **Panells premsats plans recoberts de plàstic (KF)** | imatge | Panells premsats plans recoberts de plàstic, la superfície no és porosa, resistent a l'abrasió i resistent als àcids febles, difícil de patinar | Taulell de cuina en 38mm o 8-16-19mm com a panells decoratius revestits |
 
 
 ## Material de fibra de fusta
 
-Consisteixen en fibres de fusta o palla de colza. Les plaques obtenen la seva força de la Poder d'unió de les matèries primeres desfibrades, o mitjançant l'addició d'adhesiu. Les condicions de pressió i temperatura durant la producció també tenen una gran influència en la resistència dels panells.
-
+Consisteixen en fibres de fusta. La resistència es produeix pels constitutius fibrosos presats o encolats. Les condicions de pressió i temperatura durant la fabricació tenen una gran influència en la resistència del produicte acabat.
 
 | Material de Fusta | Imatge | Característiques | Utilització |
 | --- | --- | --- | --- |
