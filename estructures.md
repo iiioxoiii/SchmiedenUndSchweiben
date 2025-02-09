@@ -60,6 +60,7 @@ Les fustes toves conserven el seu verd durant els mesos d'hivern (excepte el là
 -- Pi i làrix, altament resinosos: per revestiments interiors, revestiments en zones exteriors
 
 ## 1.3 Fusta tropical
+
 Majoritàriament arbres caducifolis que creixen en climes tropicals sense període de latència. Això fa possible una estructura més uniforme que l'estructura de la fusta que es caracteritza per anells anuals i que provenen de latituds més temperades. Menys deformació, més assecat, matèria més homogènia i sense esquerdes. L'ús d'aquestes fustes s'ha de considerar com un fet excepcional. 
 
 Les paraules clau són: desforestació selva tropical. Majoritàriament sense gestió sostenible, expulsió de pobles indígenes, durant molt de temps, llarges distàncies de transport.
@@ -218,16 +219,11 @@ Les mides dels productes poden variar depenent del projecte perquè els elements
 | 420 | 1 | 0,06 | 0,12 | 3,02 |
 
 
-### MLE (fusta laminada encolada)
-És fusta encolada del mateix tipus i en sentit paral·lel a les fibres (en sentit transversal o vertical). 
-Espesors de 6 a 45 mm.
-Un cop asserrades les làmines s'assequen fins a un límit d'humitat i s'eliminen imperfeccions i resines. Després s'uneixen les peces amb encolat a pressió, es perfilen i s'uneixen a pressió també per les cantonades. Finalment s'aplica un tractament per retardar l'acció dels insectes i els fongs.
+### MLE (Musta laminada encolada)
 
-> [!CAUTION]
-> La fusta compactada amb resines o se li ha aplicat un tractament de protecció a agents biològics s'ha de manipular extremant les precaucions.
 
-### BSH (fusta laminada encolada estructural)   
-És una categoria comercial de fusta encolada de 40 mm i de 3 taulons mínim. 
+### BSH (fusta laminada encolada estructural)
+És una categoria comercial de fusta encolada (MLE) de 40 mm i de 3 taulons mínim.
 ![laminacio estructural](fusta_13.jpg)
 ample: max. 28 mm
 altura: max 1280 mm
@@ -235,6 +231,14 @@ llargada: dels 6 metres als 18 metres.
 
 > [!TIP]
 > La fusta BSH està especial fabricada per la construcció per fer elements constructius que hagin de supòrtar càrreges i tensions elevades, oferir estabilitat i presentar un bon acabat.
+
+[+info](https://www.interempresas.net/pavimentos-revestimientos/Articulos/106945-Madera-laminada-encolada-(MLE).html)
+
+És fusta encolada del mateix tipus i en sentit paral·lel a les fibres (en sentit transversal o vertical). 
+Espesors de 6 a 45 mm. Un cop asserrades les làmines s'assequen fins a un límit d'humitat i s'eliminen imperfeccions i resines. Després s'uneixen les peces amb encolat a pressió, es perfilen i s'uneixen a pressió també per les cantonades. Finalment s'aplica un tractament per retardar l'acció dels insectes i els fongs.
+
+> [!CAUTION]
+> La fusta compactada amb resines o se li ha aplicat un tractament de protecció a agents biològics s'ha de manipular extremant les precaucions.
 
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
@@ -244,12 +248,12 @@ llargada: dels 6 metres als 18 metres.
 
 ## 2.2 Materials tècnics de fusta
 
-Són panells o peces modelades fetes de capes encolades o premsades de fusta, estelles o fibres de fusta. Aquests materials de fusta, que es classifiquen segons capes, compostos, estelles. Els materials de fibres de fusta difereixen, són més uniformes en la seva estructura.
-Són més estables dimensionalment que la fusta massissa, el que les fa aptes per a grans àrees estructurals.
+Són panells o peces modelades fetes de capes encolades o premsades de fusta, estelles o fibres de fusta. Aquests materials de fusta, que es classifiquen segons capes, compostos, estelles. Els materials de fibres de fusta difereixen, són més uniformes en la seva estructura. Són més estables dimensionalment que la fusta massissa, el que les fa aptes per a grans àrees estructurals.
 
 | Material de fusta (abreviatura) | Imatge | Propietats | Ús |
 | --- | --- | --- | --- |
-| Board (taulell de fibra)| ![contraxapat](fusta_14.jpg) | ecològic i sostenible. Les cantonades no estan tractades mentre que la superfície es repelent a l'aigua. Molt usat en stands i fires|   |
+| Board (taulell de fibra)| ![contraxapat](fusta_14.jpg) | ecològic i sostenible. Les cantonades no estan tractades mentre que la superfície es repelent a l'aigua. Molt usat en stands i fires| Placa superior dels nostres
+xamfrans,construcció lleugera. Per imitació de parquet. Lleugera flexió en superfícies.Flexible.Construcció de finestres en escenografia.|
 
 
 ### Materials en capes
@@ -258,13 +262,14 @@ generalment enganxats de manera transversal. Això garanteix una alta estabilita
 
 | Material de fusta (abreviatura) | Imatge | Propietats | Ús |
 | --- | --- | --- | --- |
-| Contraxapat de xapa (DU) | ![contraxapat](fusta_14.jpg) | 4 – 28 mm, alt
-Força, estabilitat dimensional i estabilitat dimensional. superfície té textura de fusta. Multiplex té capes més fines. | Placa de coberta nostra Bisells, construcció lleugera possible. Petits formats com Imitació de parquet. Lleu flexió superficial possible. Doblar fusta contraxapada. Finestra a la construcció del teló de fons. | 
-| Xapa de construcció fusta (BFU)| ![xapa de construcció](fusta_15.jpg) | 9 – 30 mm, molt alta resistència,
-Aspecte de xapa molt feble | Tauler de fusta contraxapada barata, s'utilitza en la construcció de palets o caixes de transport, subestructura, marcs, edificis exteriors |
+| **Contraplacat** | ![contraxapat](fusta_20.jpg) | 4 – 28 mm, alt
+Força, estabilitat dimensional i estabilitat dimensional. superfície té textura de fusta. Multiplex té capes més fines. | Placa de coberta nostra Bisells, construcció lleugera. Imitació de parquet. Lleu flexió superficial possible. Doblar fusta contraxapada. Finestra a la construcció del teló de fons. | 
+| **Contraplacat estructural**  [BFU](https://www.esteba.com/ca/taulers-contraxapats)| ![xapa de construcció](fusta_15.jpg) | 9 – 30 mm, molt alta resistència,
+Aspecte de xapa molt feble | Tauler de fusta contrapacada barata, s'utilitza en la construcció de palets o caixes de transport, subestructura, marcs, edificis exteriors. Més resistent a la humitat que el contraplacat simple. |
 | Contraxapat (SCH) | ![contraxapat](fusta_15.jpg) | força molt alta en la direcció de la fibra | Llosa d'edifici d'estudi, llosa de podi, escales |
 | Fusta premsada de resina sintètica (fenòlica) (KP)| ![fenolica](fusta_15.jpg) | molt dur, alta resistència a l'abrasió, resistent a l'aigua, olis, àlcalis i àcids | Possiblement com a accessoris (per exemple, safates com a rètols), petxines de seients | 
 | Laminats (HPL) aquí laminats | ![contraxapat](fusta_15.jpg) | 0,8 o 1 mm, material de recobriment decoratiu. 6 – 13 mm com a panell HPL pur per a revestiment de façana | Beschichtung von Platten, Bau von Studiomöbeln | 
+
 
 ---
 
