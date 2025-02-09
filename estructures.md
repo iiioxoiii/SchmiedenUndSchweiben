@@ -228,7 +228,7 @@ Un cop asserrades les làmines s'assequen fins a un límit d'humitat i s'elimine
 
 ### BSH (fusta laminada encolada estructural)   
 És una categoria comercial de fusta encolada de 40 mm i de 3 taulons mínim. 
-
+![laminacio estructural](fusta_13.jpg)
 ample: max. 28 mm
 altura: max 1280 mm
 llargada: dels 6 metres als 18 metres.
@@ -239,7 +239,7 @@ llargada: dels 6 metres als 18 metres.
 
 | €/m3 | longitud | amplada | gruix | preu metre € |
 | --- | --- | --- | --- | --- |
-| 420 | 1 | 0,1 | 0,1 | 6,52 |
+| 650 | 1 | 0,1 | 0,1 | 6,52 |
 
 
 ## 2.2 Materials tècnics de fusta
