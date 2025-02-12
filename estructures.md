@@ -1,13 +1,13 @@
-# El material fusta en la construcció dels decorats
+# La fusta com materials de construcció dels decorats
 
-### 1. L'arbre com a font de fusta
+## 1. L'arbre com generador de fusta
 
 - Fusta dura
 - Fusta tova
 - Fusta tropical
 - Propietats generals
 
-### 2. La fusta com a material
+## 2. La fusta com a material
 
 - Fusta massissa
 - Materials tècnics de fusta
@@ -15,15 +15,14 @@
 - Composites
 - Materials d'estella de fusta
 - Materials de fibra de fusta
----
+- 
 
 ## Introducció
 
-Un recurs important per al nostre comerç prové del bosc. Hem de ser conscients. Pot ser que després del final de la Gran Edat de Gel fa uns 10.000 anys no hi hagués ni un bri d'herba dempeus a Europa. Fa uns 9.000 anys es va desenvolupar un bosc a tot Alemanya consistia principalment en faig. A partir de l'Edat Mitjana i l'expansió de l'agricultura el bosc va retrocedir.
+Un recurs important per al nostre comerç prové del bosc. Hem de ser conscients d'aquest fet.  Podria ser que, després del final de la Gran Edat de Gel, fa uns 10.000 anys, no hi hagués ni un bri d'herba a Europa. Després, fa uns 9.000 anys es van desenvolupar els boscos a Europa. A partir de l'Edat Mitjana i l'expansió de l'agricultura el bosc però va retrocedir.
 
-En la comercialització de fustes del territori se'ns proposa l'abet, el castanyer, el faig, el freixe, espècies de pi, platan, abet, i espècies de roure.
+La comercialització de fustes al nostre territori se'ns proposa l'abet, el castanyer, el faig, el freixe, espècies de pi, platan i espècies de roure.
 
----
 
 # 1. L'arbre com a font de fusta
 
