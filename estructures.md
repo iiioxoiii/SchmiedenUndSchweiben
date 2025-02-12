@@ -71,7 +71,6 @@ Usos
 - Contraxapats barats
 - Xapes nobles
 
----
 ## 1.4 Propietats generals
 
 - Es pot aconseguir una millor qualitat amb la fusta d'arbres que tendeixen a tenir fibres curtes (més petites).
@@ -94,7 +93,7 @@ que mantenen l'arbre dempeus però quan la fusta es talla, hi han deformacions i
 - El canvi climàtic modifica l'estructura forestal. Exemple avets amb arrels poc profundes, els fa susceptibles al vent i no poden suportar llargs períodes secs. Una espècie que aguanta millor aquests problemes és Avet de Douglas. En general, els arbres que pateixen més estrès (per exemple, pluja àcida)
 són més susceptibles a patir malalties.
 
-## Fenòmens que influeixen en la qualitat de la fusta
+### Fenòmens que influeixen en la qualitat de la fusta
 
 - Comportament d'assecat: anells dempeus – anells estirats
 - Segons el número de branques i el seu estat
@@ -104,8 +103,8 @@ són més susceptibles a patir malalties.
 - Danys causats per fongs (per exemple, podridura blava)
 
 
-## Processos de construcció
-### S'ha de fer una selecció precisa de la fusta abans del processament
+### Processos de construcció
+#### S'ha de fer una selecció precisa de la fusta abans del processament
 
 Ens hem de preguntar QUÈ NECESSITEM?
 - Fusta dura o tova
@@ -115,7 +114,7 @@ Ens hem de preguntar QUÈ NECESSITEM?
 - ??
 - Les propietats de la fusta influeixen en el disseny
 
-### Fusteria - ha de parar atenció a les propietats estàtiques
+#### Fusteria - ha de parar atenció a les propietats estàtiques
 - Si el cor roman a la biga en serrar, s'obrirà quan s'assequi
 - Si la fusta va ser talada en la fase de creixement (saba cel·lular a la fusta), serà més susceptible a les plagues
 - Com més gran sigui la proporció d'escorça/albura a la fusta (els arbres joves), hi han més proteïnes a la matèria i la fusta serà susceptible als corcs.
@@ -147,9 +146,7 @@ enganxat: el resultat és un material pla, dimensionalment estable i sense disto
 capa superior com a capa decorativa.
 
 
----
-
-## 2 La fusta com a material
+# 2 La fusta com a material
 
 ## 2.1 Fusta massissa
 
@@ -273,7 +270,7 @@ generalment enganxats de manera transversal. Això garanteix una alta estabilita
 [+ info laminats alta pressió](https://hplaminats.com/ca/empresa-lamines-hpl/)
 
 
-## Composites
+### Composites
 
 Són panells que consisteixen en dues capes de coberta i una capa mitjana. La capa mitjana pot consistir en fusta massissa, així com resines d'escuma o bresca de cartó. Per a les capes de coberta s'utilitzen generalment diverses xapes, revestiments de plàstic o metalls.
 
@@ -286,7 +283,7 @@ Són panells que consisteixen en dues capes de coberta i una capa mitjana. La ca
 [+info panells sadwitch](https://teznocuber.com/paneles-sandwich/madera/)
 
 
-## Materials d'estella de fusta
+### Materials d'estella de fusta
 
 Consten en gran part de residus de fusta triturats i estan sotmesos a alta pressió
 Fabricat amb estelles de fusta i cola de resina sintètica a uns 180 °C.
@@ -298,8 +295,7 @@ Fabricat amb estelles de fusta i cola de resina sintètica a uns 180 °C.
 per aconseguir | Tauler de construcció també N/F, zones de plataforma, subestructura per tèxtil o PVC pisos | 
 | **Panells premsats plans recoberts de plàstic (KF)** | imatge | Panells premsats plans recoberts de plàstic, la superfície no és porosa, resistent a l'abrasió i resistent als àcids febles, difícil de patinar | Taulell de cuina en 38mm o 8-16-19mm com a panells decoratius revestits |
 
-
-## Material de fibra de fusta
+### Material de fibra de fusta
 
 Consisteixen en fibres de fusta. La resistència es produeix pels constitutius fibrosos presats o encolats. Les condicions de pressió i temperatura durant la fabricació tenen una gran influència en la resistència del produicte acabat.
 
