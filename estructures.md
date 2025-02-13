@@ -148,7 +148,7 @@ capa superior com a capa decorativa.
 
 # 2 La fusta com a material
 
-## 2.1 Fusta massissa
+## 2.1 Fusta massissa 0
 
 La trobem en taulers i taulons tallats en diferents gruixos com a matèria primera per construcció de mobles o elements estructurals. El taulell surt de l'asserrat del tronc en diferents mides.
 ![talls de fusta](fusta_05.jpg)
