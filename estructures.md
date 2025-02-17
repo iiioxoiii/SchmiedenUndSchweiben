@@ -214,12 +214,10 @@ Les mides dels productes poden variar depenent del projecte perquè els elements
 | --- | --- | --- | --- | --- |
 | 420 | 1 | 0,06 | 0,12 | 3,02 |
 
+### MLE (Musta laminada encolada BSH)
+La fusta encolada (MLE) amb certificacions estructurals també s'anomena BSH.
+de 40 mm i de 3 taulons mínim.
 
-### MLE (Musta laminada encolada)
-
-
-### BSH (fusta laminada encolada estructural)
-És una categoria comercial de fusta encolada (MLE) de 40 mm i de 3 taulons mínim.
 ![laminacio estructural](fusta_13.jpg)
 ample: max. 28 mm
 altura: max 1280 mm
