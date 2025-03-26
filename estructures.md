@@ -310,20 +310,20 @@ en construir murs |
 
 # Tecnologia de la construcció
 
-1. Diferents tècniques constructives
-1.1. Construcció d'estructura de fusta
-1.2. Construcció de marc
-1.3. Ús de material de bastida
-1.4. Finestra
-1.5. Escales
-1.6. Maons
-1.7. Estructures auxiliars tècniques
-1.8. Pisos
-1.9. Rajoles
-1.10. Edificis especials
-1.11. Protecció contra incendis
-1.12. Xàfecs càlids
-1.13. Transports
+- 1 Diferents tècniques constructives
+-- 1.1 Construcció d'estructura de fusta
+-- 1.2. Construcció de marc
+-- 1.3. Ús de material de bastida
+-- 1.4. Finestra
+-- 1.5. Escales
+-- 1.6. Maons
+-- 1.7. Estructures auxiliars tècniques
+-- 1.8. Pisos
+-- 1.9. Rajoles
+-- 1.10. Edificis especials
+-- 1.11. Protecció contra incendis
+-- 1.12. Xàfecs càlids
+-- 1.13. Transports
 
 ---
 
