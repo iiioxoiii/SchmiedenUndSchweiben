@@ -244,11 +244,14 @@ Espesors de 6 a 45 mm. Un cop asserrades les làmines s'assequen fins a un lími
 
 Són panells o peces modelades fetes de capes encolades o premsades de fusta, estelles o fibres de fusta. Aquests materials de fusta, que es classifiquen segons capes, compostos, estelles. Els materials de fibres de fusta difereixen, són més uniformes en la seva estructura. Són més estables dimensionalment que la fusta massissa, el que les fa aptes per a grans àrees estructurals.
 
+---
+temp
 | Material de fusta (abreviatura) | Imatge | Propietats | Ús |
 | --- | --- | --- | --- |
 | Board (taulell de fibra)| ![contraxapat](fusta_14.jpg) | ecològic i sostenible. Les cantonades no estan tractades mentre que la superfície es repelent a l'aigua. Molt usat en stands i fires| Placa superior dels nostres
 xamfrans,construcció lleugera. Per imitació de parquet. Lleugera flexió en superfícies.Flexible.Construcció de finestres en escenografia.|
-
+temp
+---
 
 ### Materials en capes
 consisteixen en panells enganxats per formar capes individuals de xapa. Les capes de xapa estan dins
@@ -256,8 +259,8 @@ generalment enganxats de manera transversal. Això garanteix una alta estabilita
 
 | Material de fusta (abreviatura) | Imatge | Propietats | Ús |
 | --- | --- | --- | --- |
-| **Contraplacat** | ![contraxapat](fusta_20.jpg) | 4 – 28 mm, alt. Força, estabilitat dimensional i estabilitat dimensional. superfície té textura de fusta. Multiplex té capes més fines. | Placa de coberta nostra Bisells, construcció lleugera. Imitació de parquet. Lleu flexió superficial possible. Doblar fusta contraxapada. Finestra a la construcció del teló de fons. | 
-| **Contraplacat estructural**  [BFU](https://www.esteba.com/ca/taulers-contraxapats)| ![xapa de construcció](fusta_15.jpg) | 9 – 30 mm, molt alta resistència, Aspecte de xapa molt feble | Tauler de fusta contrapacada barata, s'utilitza en la construcció de palets o caixes de transport, subestructura, marcs, edificis exteriors. Més resistent a la humitat que el contraplacat simple. |
+| **[Contraplacat o contraxapat](https://www.esteba.com/ca/taulers-contraxapats)** (abans FU) (ara VL)   | ![contraxapat](fusta_20.jpg) | 4 – 28 mm, alt. Força, estabilitat dimensional i estabilitat dimensional. Totes les capes fusta s'encolen entrecreuades per proporcionar estabilitat dimensional. La denominació [LVL]([https://www.esteba.com/ca/taulers-contraxapats](https://www.maderea.es/madera-microlaminada-o-lvl-descripcion-usos-y-caracteristicas-beneficios-e-inconvenientes/)) és pels contraplacats estructurals multicapa | Placa de coberta nostra Bisells, construcció lleugera. Imitació de parquet. Lleu flexió superficial possible. Doblar fusta contraxapada. Finestra a la construcció del teló de fons. | 
+| **Contraplacat o contraxapat** resistent a la humitat [BFU](https://www.esteba.com/ca/taulers-contraxapats)| ![xapa de construcció](fusta_15.jpg) | 9 – 30 mm, molt alta resistència, Aspecte de xapa molt feble | Tauler de fusta contrapacada barata, s'utilitza en la construcció de palets o caixes de transport, subestructura, marcs, edificis exteriors. Més resistent a la humitat que el contraplacat simple. |
 | **Fusta laminada tricapa** [SCH](https://www.esteba.com/ca/tauler-de-fusta-tricapa-d-avet) | ![contraplacat](fusta_22.jpg) | alta força en la direcció de la fibra | Llosa d'edifici d'estudi, llosa de podi, escales |
 | **Fusta fenòlica o estratificada** (KP)| ![fenolica](fusta_23.jpg) | molt dur, alta resistència a l'abrasió, resistent a l'aigua, olis, àlcalis i àcids | Possiblement com a accessoris| 
 | **Laminats decoratius d'alta pressió (HPL)** aquí laminats | ![contraxapat](fusta_24.jpg) | 0,8 o 1 mm, material de recobriment decoratiu. 6 – 13 mm com a panell HPL per a revestiment de façana | | 
