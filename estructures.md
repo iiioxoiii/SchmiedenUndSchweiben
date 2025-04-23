@@ -290,7 +290,7 @@ Fabricat amb estelles de fusta i cola de resina sintètica a uns 180 °C.
 
 | Material Fusta | Imatge | Característiques | Utilització | 
 | --- | --- | --- | --- | 
-| **[Panell d'aglomerat](https://www.modellbau-wiki.de/wiki/Flachpressplatte) (FPY)**   | ![aglomerat](fusta_aglomerat.jpg) | 8-38 mm. Barat superfície pintable, la vora necessita ser encolada o ha de ser omplerta | mobles, columnes|
+| **[Panell d'aglomerat](https://www.modellbau-wiki.de/wiki/Flachpressplatte) (FPY)**   | ![aglomerat](fusta_aglomerat.jpg) | 8-38 mm. Barat superfície pintable, la vora necessita ser encolada o ha de ser omplerta. Hi han aglomerats especials: amb tractaments de resistència a l'aigua (hidròfugs) i resistents al foc (ignífugs). També hi han uns tipus més lleugers per la disposició i mida de la viruta que fa que hi ha més aire en el conjunt de la materia.| mobles, columnes|
 | **Taulell OSB «Oriented Strand Board»** | ![OBS](fusta_obs.jpg) | 8 – 30 mm, molt alt força de flexió, Estable, barat|
 per aconseguir | Tauler de construcció també N/F, zones de plataforma, subestructura per tèxtil o PVC pisos | 
 | **Panells premsats plans recoberts de plàstic (KF)** | ![KF](fusta_okf.jpg) | Panells premsats plans recoberts d'una capa plàstica (), la superfície no és porosa, resistent a l'abrasió i resistent als àcids febles, difícil de patinar | Taulell de cuina en 38mm o 8-16-19mm com a panells decoratius revestits |
@@ -301,8 +301,7 @@ Consisteixen en fibres de fusta. La resistència es produeix pels constitutius f
 
 | Material de Fusta | Imatge | Característiques | Utilització |
 | --- | --- | --- | --- |
-|  Tauler de fibres de fusta poròs (Poröse Holzfaserplatte) (també conegut com a tauler de fibres porós i "Soft Board" (SB) | ![SB](fusta_sf.jpg) | Més lleuger que l'aglomerat (menys dens) i amb una fabricació de menor impacte ecològic. Aïllant tèrmic, aïllant acústic, lleugerament mecànic. També es pot processar a la superfície | Obra interior, possible pàtina estructural
-en construir murs |
+|  Tauler de fibres de fusta poròs (Poröse Holzfaserplatte) (també conegut com a tauler de fibres porós i "Soft Board" (SB) | ![SB](fusta_sf.jpg) | Més lleuger que l'aglomerat (menys dens) i amb una fabricació de menor impacte ecològic. Aïllant tèrmic, aïllant acústic, lleugerament mecànic. També es pot processar a la superfície | Obra interior, possible pàtina estructural en construir murs |
 | Tauler d'alta densitat (Harte Holzfaserplatte) (HDF) o DM  | ![fusta_MDF](fusta_dm.jpg) | 3, 5, 6 mm constantment igual dens, vora fàcil de pintar | Conegut com DM dens. El disseny d'interiors, la construcció de mobles, es pot enganxar de manera estable a una mitra; així es pot representar el gruix |
 | Tauler dur (HB) | ![fusta_hd](fusta_hb.jpg) | 3, 4, 6 mm un costat llis, Amb relleu de la part posterior. És el panell més barat: s'enrotlla ràpidament quan està humit. Els taulers de fibres durs estan formats per subproductes de serradores, encenalls de fusta o també per fibres llenyoses de plantes renovables. Els components es premsen junts per formar un tauler amb l'ajuda d'adhesius. La composició exacta i la densitat del tauler depenen de la seva finalitat d'ús posterior. La fabricació es realitza en grans premses contínues. | plaques de coberta, caixes |
 | Tauler de fibres de densitat mitjana (MDF) | ![fusta_MDF](fusta_mdf.jpg) | 8 – 50 mm, superfície molt llisa. Conegut com DM de densitat mitjana. Les vores de la capa mitjana són menys denses i només es poden pintar de manera limitada | Construcció de mobles, disseny d'interiors |
