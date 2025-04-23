@@ -283,7 +283,6 @@ Són panells que consisteixen en dues capes de coberta i una capa mitjana. La ca
 
 [+info panells sadwitch](https://teznocuber.com/paneles-sandwich/madera/)
 
-
 ### Materials d'estella de fusta
 
 Consten en gran part de residus de fusta triturats i estan sotmesos a alta pressió
@@ -291,7 +290,7 @@ Fabricat amb estelles de fusta i cola de resina sintètica a uns 180 °C.
 
 | Material Fusta | Imatge | Característiques | Utilització | 
 | --- | --- | --- | --- | 
-| **Panell d'aglomerat (FPY)**   | ![aglomerat](fusta_aglomerat.jpg) | 8-38 mm, més barat Fàbrica de discos teixit, superfície pintable, la vora necessita ser encolada o ha de ser omplerta | mobles, columnes|
+| **[Panell d'aglomerat](https://www.modellbau-wiki.de/wiki/Flachpressplatte) (FPY)**   | ![aglomerat](fusta_aglomerat.jpg) | 8-38 mm. Barat superfície pintable, la vora necessita ser encolada o ha de ser omplerta | mobles, columnes|
 | **Taulell OSB «Oriented Strand Board»** | ![OBS](fusta_obs.jpg) | 8 – 30 mm, molt alt força de flexió, Estable, barat|
 per aconseguir | Tauler de construcció també N/F, zones de plataforma, subestructura per tèxtil o PVC pisos | 
 | **Panells premsats plans recoberts de plàstic (KF)** | ![KF](fusta_okf.jpg) | Panells premsats plans recoberts d'una capa plàstica (), la superfície no és porosa, resistent a l'abrasió i resistent als àcids febles, difícil de patinar | Taulell de cuina en 38mm o 8-16-19mm com a panells decoratius revestits |
