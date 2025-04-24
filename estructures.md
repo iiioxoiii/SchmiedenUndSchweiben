@@ -1,4 +1,4 @@
-# La fusta com materials de construcció dels decorats
+# La fusta com material de construcció de decorats
 
 ## 1. L'arbre com generador de fusta
 
